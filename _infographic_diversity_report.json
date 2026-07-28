@@ -1,0 +1,5003 @@
+{
+  "generated_at_utc": "2026-07-28T18:35:55.271781Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 208,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Baden-Wurttemberg_dc11f2",
+      "title": "Which Baden Wurttemberg UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Baden Württemberg UFO Reporting History",
+        "Common Misidentifications in Baden Württemberg",
+        "Baden Württemberg Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_2024_sighting_surge_4e9950",
+      "title": "Why Did UFO Reports Surge in 2024?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CENAP Investigation Workflow",
+        "Baden Württemberg Reporting Dynamics",
+        "Common Explanations for 2024 Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_friesenheim_passive_e4b02d",
+      "title": "Did Passive Radar Confirm the Friesenheim Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Friesenheim Oberweier Sighting Key Stages",
+        "Interpretations of the Radio Trace",
+        "Technical Limitations of Oberweier Station"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+      "title": "How Complete Is the GEP Sighting Archive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEP Case Intake and Investigation Flow",
+        "GEP Archive Data Quality Comparison",
+        "GEP Investigative Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+      "title": "Why UFO Mysteries Outlive Their Explanations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of a Waiblingen Sighting",
+        "UFO Reporting vs. Reality",
+        "Baden Württemberg Sighting Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_official_record_gaps_54d358",
+      "title": "Why Are Baden Wurttemberg's Official UFO Files So Thin?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Baden Württemberg Incident Record Flow",
+        "German UFO Record Interpretations",
+        "Baden Württemberg Record Repositories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+      "title": "Do Police and Pilots Make UFO Reports Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Stuttgart Airport Radar Incident Time line",
+        "Stuttgart vs Waiblingen Evidence Analysis",
+        "Professional Witness Contribution Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_regional_sighting_fa_e94cef",
+      "title": "Why This State Generates So Many Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Common Explanations for Baden Württemberg Sightings",
+        "Visual Perception vs. Physical Reality",
+        "Baden Württemberg Aviation and Traffic Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+      "title": "Why Starlink Trains Look Like UFO Formations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Starlink Satellite Train Lifecycle",
+        "Distinguishing Starlink from Re entry",
+        "Starlink Visual Signatures in Baden Württemberg"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_stuttgart_airport_ca_d32ab5",
+      "title": "What Was Seen Near Stuttgart Airport?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "January 2009 Stuttgart Radar Time line",
+        "Plausible Explanations for Stuttgart Sighting",
+        "Evidence Categories in Stuttgart Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_stuttgart_sky_lanter_42eba0",
+      "title": "How Sky Lanterns Triggered Stuttgart UFO Alarms",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stuttgart Lantern Flap Chronology",
+        "Lantern vs. UFO Visual Cues",
+        "Sky Lantern Physical Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_unresolved_case_reco_09c950",
+      "title": "What Does Unresolved Actually Mean Here?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEP UFO Classification Workflow",
+        "Baden Württemberg Data Interpretation Models",
+        "GEP Outcome Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Baden-Wurttemberg_dc11f2_waiblingen_led_kite_73435c",
+      "title": "How Waiblingen's UFO Became an LED Kite",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Waiblingen UFO Alarm Time line",
+        "Beinstein Sightings: Perception vs. Reality",
+        "Kite Features Explaining UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123",
+      "title": "Bavaria's UFO Stories Under the Evidence Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bavarian UFO History Time line",
+        "Interpretations of the 1561 Nuremberg Broadsheet",
+        "Bavarian UFO Data Sources and Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_bavaria_ufo_media_7e9fa7",
+      "title": "How the Press Turns Sightings Into UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bavarian UFO Narrative Formation",
+        "Poxdorf and Wolfratshausen Case Studies",
+        "Evidence Gaps in Local Reporting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_bavarian_airbase_cla_a34327",
+      "title": "Why UFO Reports Cluster Around Bavarian Airbases",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Bavarian Airfield Operational Profiles",
+        "Unidentified Aerial Activity Interpretations",
+        "Bavarian Drone Security Response"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_civilian_ufo_investi_584498",
+      "title": "Who Actually Investigates Bavaria's UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bavarian Sighting Investigation Workflow",
+        "Bavarian Archive Organization Styles",
+        "Bavarian Case Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_cold_war_flying_disc_c65797",
+      "title": "Why Bavaria Tracked Flying Discs in 1948",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bavarian UFO Reporting Time line",
+        "Bavarian Intelligence Assessment Criteria",
+        "Archival Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_common_ufo_explanati_51afb7",
+      "title": "What Usually Explains Bavaria's UFO Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CENAP Investigation Workflow for Sightings",
+        "Bavarian Sky Phenomena Interpretations",
+        "Common Bavarian UFO Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_munich_pilot_sightin_014f00",
+      "title": "What Did the Pilots See East of Munich?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mühldorf Sighting Investigation Time line",
+        "Interpretations of the Bavarian Sighting",
+        "Evidence Requirements for UAP Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_nuremberg_sky_battle_089e18",
+      "title": "Was Nuremberg's Sky Battle Really a UFO Event?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Nuremberg Sky Battle",
+        "Interpretations of the 1561 Phenomenon",
+        "Evidence Quality of Nuremberg 1561"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_official_ufo_archive_b3e914",
+      "title": "Why Bavaria Has No Single Official UFO File",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Bavarian Records vs. French GEIPAN Model",
+        "Bavarian Sighting Record Locations",
+        "Reasons for Missing Bavarian Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_starlink_sighting_wa_780c46",
+      "title": "How Starlink Creates Bavaria's New UFO Waves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bavarian Starlink Identification Workflow",
+        "Starlink vs. Other Aerial Phenomena",
+        "Bavarian Starlink Visual Variations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_testing_bavarian_cas_2f6323",
+      "title": "How Can a Bavarian UFO Sighting Be Checked?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Bavarian UFO Investigation Key Stages",
+        "Testing Bavarian Sky Phenomena",
+        "Bavarian Sighting Evidence Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_ufo_report_totals_b2f2e2",
+      "title": "Do Bavaria's UFO Numbers Mean Anything Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "CENAP Investigation Workflow for Bavaria",
+        "Bavarian UFO Report Misconceptions",
+        "Common Explanations for Bavarian Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bavaria_3c0123_unresolved_bavarian_05e480",
+      "title": "When Does a Bavarian UFO Stay Unresolved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bavarian UAP Investigation Workflow",
+        "Weak vs Strong Unknowns",
+        "Bavarian Sky Source Mixture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06",
+      "title": "Why Berlin's UFO History Lives in Archives",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Berlin UFO Archival Time line",
+        "Tempelhof 1952 Sighting Interpretations",
+        "Categories of Berlin Aerial Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_berlin_1954_meteor_9abba8",
+      "title": "The Berlin UFO Blue Book Called a Meteor",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Berlin 1954 Meteor Observation Key Stages",
+        "Meteor vs. Aircraft Interpretation",
+        "Meteor Characteristics in Berlin Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_blue_book_berlin_fil_e47207",
+      "title": "What Project Blue Book Recorded in Berlin",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Berlin Air Intelligence Reporting Chain",
+        "Berlin Case Analysis Interpretations",
+        "Project Blue Book Classification System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_cold_war_air_securit_2c741f",
+      "title": "Why Berlin Treated Strange Lights as Threats",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tempelhof 1952 Intelligence Workflow",
+        "Cold War Aviation Threat Analysis",
+        "Berlin Air Safety Center Mandates"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_government_file_myth_dafb06",
+      "title": "Do Government UFO Files Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Verification Ladder for UFO Files",
+        "Berlin Records: Western vs Eastern Systems",
+        "Limitations of Official UFO Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_insufficient_data_19_3efc57",
+      "title": "When Unidentified Simply Means Poorly Documented",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Missing Data in West Berlin Record",
+        "Unexplained vs Unevaluable Classifications",
+        "West Berlin 1954 Archive Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_ordinary_ufo_explana_25e14f",
+      "title": "What Usually Explains Berlin's Strange Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Berlin Sighting Identification Workflow",
+        "Aircraft vs. Balloon Movement Patterns",
+        "Common Berlin Sky Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_searchlights_clouds_5f4ac3",
+      "title": "Could Searchlights Explain the Tempelhof Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Tempelhof Sighting Investigation Time line",
+        "Searchlight vs. Craft Hypotheses",
+        "Missing Data in Military Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_silent_object_1983_558450",
+      "title": "The Silent Object Heading for West Berlin",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in 1983 Berlin Border Sightings",
+        "Plausible Explanations for Spandau Sighting",
+        "Missing Data in Berlin Security Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_stasi_ufo_files_fa71cb",
+      "title": "Inside the Stasi's Small UFO File",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1983 Spandau Sighting",
+        "Stasi Security vs. Public Ideology",
+        "Operational Reasons for Aerial Logging"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_tempelhof_1952_case_cb5c83",
+      "title": "Berlin's Best Documented UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Tempelhof 1952 Sighting Time line",
+        "Tempelhof Sighting Interpretations",
+        "Evidence Quality in Tempelhof Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_tempelhof_formation_7e80c0",
+      "title": "What Were the Four Objects Over Tempelhof?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Wenzel's 1952 Tempelhof Flight Key Stages",
+        "Tempelhof Sighting Comparison Analysis",
+        "Evidence Limitations of Wenzel Report"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Berlin_062b06_unexplained_vs_under_d828b3",
+      "title": "Unexplained or Just Underdocumented?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Tempelhof Incident Investigation Flow",
+        "Tempelhof Evidence Interpretations",
+        "Berlin Report Data Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c",
+      "title": "Why Brandenburg's UFO Record Remains So Elusive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Brandenburg Aerial Observation Key Stages",
+        "Brandenburg Sky Phenomenon Interpretations",
+        "Brandenburg UFO Data Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+      "title": "Why Unidentified Lights Can Close Brandenburg's Airport",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Berlin Brandenburg Airport Drone Shutdowns",
+        "Unidentified Object Interpretations at BER",
+        "Aviation Risk Control Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+      "title": "What Brandenburg's UFO Statistics Actually Count",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "timeline_snake",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "CENAP Sighting Investigation Workflow",
+        "Brandenburg 2020 Reporting Statistics",
+        "Common Causes of Sky Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+      "title": "What Brandenburg Witnesses Most Often Misidentify",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Conventional Explanations for Brandenburg Sightings",
+        "Human Perception vs. Optical Reality",
+        "Standardized Reporting for Brandenburg Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+      "title": "How Drones Changed Brandenburg's UFO Problem",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Drone Detection and Identification Workflow",
+        "BER Airport Drone Incident Analysis",
+        "Categories of Unresolved Drone Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_fragmented_official_2c7964",
+      "title": "Where Brandenburg's UFO Records Actually End Up",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Brandenburg Report Archival Pathway",
+        "German vs French UFO Records",
+        "Reasons for Missing UFO Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+      "title": "Were Military Flares Behind the Greifswald Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Parachute Flare Deployment Mechanics",
+        "Greifswald Lights Interpretations",
+        "Evidence in Greifswald Footage"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+      "title": "How the Greifswald Lights Shaped Eastern UFO Lore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Greifswald Lights Media Lifecycle",
+        "Greifswald Lights Explanations",
+        "Evidence Limitations in Greifswald"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_military_site_specul_1368fd",
+      "title": "Why Brandenburg's Military Geography Fuels UFO Claims",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Brandenburg Military Geography Landscape",
+        "Interpreting Brandenburg Aerial Sightings",
+        "Verifying Military Linked Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+      "title": "Why Brandenburg Has No Defining UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Criteria for Brandenburg Landmark Cases",
+        "Brieselang Light vs. Landmark Cases",
+        "Brandenburg Data Fragmentation Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+      "title": "Why the Rathenow Sightings Remain Inconclusive",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Brandenburg UFO Report Categories",
+        "Rathenow Sighting Evidence Limits",
+        "Strengthening Future Aerial Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+      "title": "Who Was Flying Over Southern Brandenburg?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ruhland Drone Sightings Time line 2025",
+        "Ruhland Drone Activity Interpretations",
+        "Ruhland Drone Observation Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+      "title": "How a Brandenburg UFO Report Is Checked",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Brandenburg UFO Investigation Workflow",
+        "Common Brandenburg Sky Explanations",
+        "Data Requirements for Investigation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942",
+      "title": "The Airport Mystery That Defined Bremen's UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bremen Airport UFO Incident Time line",
+        "Bremen UFO Interpretations and Evidence",
+        "Evidence Hierarchy of the Bremen Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_air_france_misidenti_2cb8ae",
+      "title": "Did a Waiting Airliner Become a Second UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Bremen Airport UFO Response Time line",
+        "Bremen UFO Witness Interpretations",
+        "Factors Influencing Bremen UFO Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_airport_incid_880ee3",
+      "title": "The Night Bremen Airport Stopped Taking Chances",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bremen Airport UFO Incident Time line",
+        "Bremen UFO Explanations Comparison",
+        "Bremen Airport Operational Impact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_case_verdict_26d192",
+      "title": "Is the Bremen Airport UFO Actually Solved?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bremen Airport UFO Key Stages",
+        "Bremen UFO Interpretation Analysis",
+        "Unresolved Forensic Gaps in Bremen"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_police_inquir_0e62ce",
+      "title": "Why Bremen Police Never Found the Operator",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Bremen Airport Aviation Safety Investigation",
+        "Bremen UFO Interpretations vs Findings",
+        "Obstacles to Identifying the Operator"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+      "title": "How Strong Was Bremen's Radar Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bremen Airport Aviation Alert Time line",
+        "Bremen Radar Signal Interpretations",
+        "Bremen Evidence Strength Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+      "title": "Why Bremen Never Became a Major UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bremen Airport Aviation Disruption Key Stages",
+        "Bremen Airport Incident Interpretations",
+        "Bremen State Reporting Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_bremen_witness_repor_fe69ec",
+      "title": "Did Bremen's Witnesses See the Same Object?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bremen Airport Incident Response Time line",
+        "Conflicting Witness Descriptions in Bremen",
+        "Factors Complicating Aerial Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_flight_disruption_sa_0a30bd",
+      "title": "Why One Unknown Object Disrupted Three Flights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bremen Airport Operational Response Key Stages",
+        "Interpretations of the Bremen Object",
+        "Operational Impacts at Bremen Airport"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_model_aircraft_theor_86c264",
+      "title": "Was Bremen's UFO Really a Model Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Bremen Airport UFO Explanations",
+        "Model Aircraft Characteristics in Bremen",
+        "Bremen Investigation Evidence Chain"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_radar_angel_theory_2355c8",
+      "title": "Could a Radar Angel Explain Bremen's UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Bremen Airport UFO Time line",
+        "Bremen UFO Interpretations",
+        "Radar Interference Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_search_helicopter_si_e46e5d",
+      "title": "How the Search Created New UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bremen UFO Response Key Stages",
+        "Bremen UFO Interpretations",
+        "Factors Multiplying UFO Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bremen_20b942_unidentified_not_ali_becdd7",
+      "title": "Why Unidentified Did Not Mean Alien in Bremen",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bremen Airport Aviation Safety Response",
+        "Bremen UFO Interpretations vs. Evidence",
+        "Aviation Safety Risk Factors in Bremen"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277",
+      "title": "Why Hamburg's UFO Mysteries Usually Fade",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hamburg UFO Investigation Lifecycle",
+        "Hamburg Case Study Interpretations",
+        "Hamburg UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_distance_perception_588628",
+      "title": "Why Strange Lights Seem Closer Than They Are",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Perception Error Chain",
+        "Hamburg 2009 Fireball Interpretations",
+        "Nighttime Visual Distortion Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_hamburg_2009_firebal_74fad2",
+      "title": "The Fireball Hamburg Mistook for a Crash",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "2009 Fireball Observation Time line",
+        "Aircraft vs. Meteor Evidence",
+        "Meteor Characteristics in Hamburg"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_hamburg_false_alarms_09f678",
+      "title": "Why Hamburg's Sky Is Easy to Misread",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigating Hamburg Aerial Sightings",
+        "Deceptive Visuals in Hamburg's Sky",
+        "Sources of Urban Aerial Activity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_hamburg_ufo_archives_3ed0f5",
+      "title": "Where Hamburg's UFO Records Actually Survive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hamburg UFO Data Lifecycle",
+        "Press Records vs. Data base Files",
+        "Missing Evidence in Hamburg Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_hamburg_ufo_database_7464b1",
+      "title": "Do Hamburg's UFO Numbers Show a Real Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Hamburg UFO Reporting Evolution",
+        "Interpreting Hamburg Sighting Peaks",
+        "Common Hamburg IFO Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_hamburg_ufo_investig_fa56f8",
+      "title": "How Investigators Test a Hamburg UFO Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Hamburg UFO Investigation Workflow",
+        "Atmospheric Phenomenon Interpretations",
+        "Hamburg Visual Environment Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_march_2024_lights_36e42c",
+      "title": "Hamburg's 2024 Lights Remain Only Partly Solved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Hamburg Luminous Formation Time line",
+        "Hamburg Light Source Hypotheses",
+        "Missing Evidence for Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_rocket_reentry_hambu_d0a3e8",
+      "title": "When Falling Rocket Parts Look Like Craft",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Falcon 9 R/B Re entry Time line",
+        "Meteor vs. Rocket Re entry Features",
+        "Evidence for Falcon 9 Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_shapes_between_light_dc650c",
+      "title": "Do Separate Lights Create Imaginary Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Perception Completion Process",
+        "Visible Lights vs. Inferred Craft",
+        "Photographic Evidence Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_sky_lantern_ufo_flap_69b944",
+      "title": "How Sky Lanterns Created a UFO Flap",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "timeline_genealogy",
+        "quadrant"
+      ],
+      "roles": [
+        "taxonomy",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Characteristics of Sky Lanterns",
+        "German Lantern Wave Key Stages",
+        "Sighting Interpretation Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_st_pauli_led_kite_02d824",
+      "title": "How a Lighted Kite Became a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "St Pauli Kite Identification Time line",
+        "Visual Perception vs. Physical Reality",
+        "Technical Specifications of the St Pauli Kite"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hamburg_155277_starlink_hamburg_sig_e0c8a6",
+      "title": "Why Satellite Trains Puzzle Hamburg Watchers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Hamburg Starlink Sighting Key Stages",
+        "Satellite Reflection Mechanisms",
+        "Data Points for Orbital Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21",
+      "title": "Why Hesse's UFO Story Is Mostly About Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hessian UFO Investigation Chronology",
+        "CENAP Identification Categories",
+        "Common Sources of Hessian Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_aircraft_military_id_c30f6d",
+      "title": "Why Aircraft Can Become Hesse's Most Convincing UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hessian Aviation Sources for UFO Reports",
+        "Visual Perception vs. Aircraft Reality",
+        "Data Gaps in Aircraft Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_cenap_reporting_cent_223f86",
+      "title": "How an Odenwald UFO Centre Checks the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "CENAP Report Verification Workflow",
+        "CENAP Classification Framework",
+        "Common Aerial Stimuli in Lützelbach"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_fernwald_helicopter_37ea1b",
+      "title": "Why the Fernwald Light Felt So Close",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "2001 Fernwald Sighting Key Stages",
+        "Fernwald Sighting Interpretations",
+        "Factors Influencing Fernwald Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_frankfurt_airport_dr_76971c",
+      "title": "When an Unknown Object Threatens Frankfurt Flights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Frankfurt Airport Drone Response Protocol",
+        "Interpreting Unidentified Aerial Sightings",
+        "Frankfurt Drone Disruption Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_frankfurt_sighting_p_7c2071",
+      "title": "Why Frankfurt Generates So Many Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Frankfurt Aviation Traffic Flow",
+        "Frankfurt Sighting Interpretations",
+        "Factors Shaping Frankfurt Observations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_giessen_explained_ca_db30a5",
+      "title": "Three Gießen Cases That Changed After Investigation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gießen UFO Investigation Key Stages",
+        "Gießen Sighting Explanations",
+        "Evidence Quality in Gießen Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_hesse_fireball_repor_bbe7f9",
+      "title": "Lantern or Meteor? Reading Hesse's Fireball Reports",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hessian Fireball: Lantern vs Meteor",
+        "CENAP Fireball Verification Workflow",
+        "Hessian Lantern Sighting Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_hesse_ufo_investigat_9709fd",
+      "title": "How Investigators Turn a Strange Light Into a Case",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "CENAP UFO Investigation Workflow",
+        "Hessian Sighting Explanations",
+        "CENAP Case Resolution Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_meaning_of_unresolve_2b6434",
+      "title": "What Unresolved Really Means in Hesse UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "CENAP Investigation Data Requirements",
+        "UAP Investigation Classifications",
+        "Factors Limiting Visual Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_rhine_main_searchlig_c5ad31",
+      "title": "When Searchlights Look Like Objects in the Clouds",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Rhine Main Light Phenomenon Time line",
+        "Projected Light vs. Aerial Craft",
+        "Cloud Interaction Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_starlink_satellite_r_e3f97c",
+      "title": "How Satellite Trains Reshaped UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Hessian UFO Reporting Evolution",
+        "Starlink Optical Reflection Types",
+        "CENAP Satellite Sighting Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hesse_19bb21_ufo_photo_misidentif_c40a2b",
+      "title": "Why a Strange UFO Photo May Show Almost Nothing",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CENAP Photographic Evidence Workflow",
+        "Optical Artifacts vs. Real Subjects",
+        "High Quality Evidence Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37",
+      "title": "When Strange Lights Crossed Lower Saxony's Skies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Bruchhagen Rocket Debris Investigation",
+        "Lower Saxony Aerial Explanations",
+        "Lower Saxony Reporting Geography"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_algermissen_bangs_li_b5d480",
+      "title": "What Caused Algermissen's Friday Night Bangs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Algermissen Mystery Investigation Time line",
+        "Algermissen Explanations: UFO vs. Pyrotechnics",
+        "Evidence Gaps in the Algermissen Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_bruchhagen_rocket_de_e3e4b4",
+      "title": "The UFO That Fell Near Bruchhagen",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bruchhagen Rocket Debris Time line",
+        "Bruchhagen Debris Interpretations",
+        "Bruchhagen Cone Physical Specs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_case_classification_7e6225",
+      "title": "Unidentified Does Not Always Mean Inexplicable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bruchhagen Rocket Re entry Investigation",
+        "Lower Saxony Case Rating Criteria",
+        "Common Causes of Modern Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_drone_incidents_24eab1",
+      "title": "Are Drones Replacing UFOs in Lower Saxony?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Lower Saxony Drone Incident Key Stages",
+        "Drone Observation Evidence Scale",
+        "Lower Saxony Detection Technologies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_hildesheim_fireballs_d37ccd",
+      "title": "Why Hildesheim's Fireballs Looked Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "March 2007 Fireball Observation Key Stages",
+        "Interpretations of the Hildesheim Fireball",
+        "Evidence Supporting Meteor Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_local_press_ufo_scar_f0821c",
+      "title": "How Local Headlines Shaped Lower Saxony's UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Bruchhagen Rocket Debris Investigation Time line",
+        "Journalistic Framing vs. Physical Evidence",
+        "Categories of Newspaper UFO Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_military_airfields_b8f6fe",
+      "title": "Do Lower Saxony's Airbases Explain Its UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lower Saxony Military Aviation Network",
+        "Aircraft Lighting vs. Visual Illusions",
+        "Wunstorf A400 M Sighting Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_police_records_limit_e92487",
+      "title": "What Police Files Can Prove About UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Algermissen Case Investigation Time line",
+        "Police Record Evidence vs. Interpretation",
+        "Police Investigation Limitations in UFO Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_rural_witness_percep_b43aac",
+      "title": "Why Flat Horizons Distort Strange Light Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Perception of Moving Lights",
+        "Lower Saxony Rural Light Sources",
+        "Reliable Witness Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_satellite_formation_7c911f",
+      "title": "When Satellite Trains Look Like Flying Formations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Starlink Satellite Train Lifecycle",
+        "Satellite vs. Other Aerial Phenomena",
+        "Lower Saxony Observation Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_space_debris_reentri_741f70",
+      "title": "How Falling Space Hardware Creates UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bruchhagen Rocket Debris Identification",
+        "Re entry vs. Natural Meteor Traits",
+        "Factors Influencing Debris Survival"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lower_Saxony_e2cb37_wilhelmshaven_coasta_c38d77",
+      "title": "Strange Lights Over Wilhelmshaven's Naval Horizon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Atmospheric Refraction and Mirage Formation",
+        "Wilhelmshaven Sighting Explanations",
+        "Maritime Infrastructure at Wilhelmshaven"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6",
+      "title": "From Greifswald's Lights to Stralsund's Sky Battle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Mecklenburg Vorpommern Sky Phenomena",
+        "Greifswald 1990 Evidence Interpretations",
+        "Mecklenburg Vorpommern Sighting Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_baltic_military_airs_c1cba6",
+      "title": "The Military Airspace Behind the Baltic Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Greifswald Lights Historical Context",
+        "Greifswald Lights Interpretations",
+        "Factors Inhibiting Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_common_ufo_explanati_51afb7",
+      "title": "The Everyday Objects Behind Most UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Mecklenburg Vorpommern Aerial Light Interpretations",
+        "Factors Creating Misleading Night Sightings",
+        "Verifying Unusual Aerial Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_flare_exp_362392",
+      "title": "Did Military Flares Create the Greifswald UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Parachute Flare Descent",
+        "Greifswald Lights Interpretations",
+        "Evidence for Flare Mechanism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_lights_ca_9c96d2",
+      "title": "Why the Greifswald Lights Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Greifswald Lights",
+        "Greifswald Lights Interpretations",
+        "Evidence in the Greifswald Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_official_5ca0f0",
+      "title": "Why Is the Greifswald Military Record Incomplete?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Greifswald Archive and Documentation Time line",
+        "Greifswald Lights Explanatory Models",
+        "Evidence Components for Conclusive Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_open_ques_45a933",
+      "title": "What Remains Uncertain About the Greifswald Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of the Greifswald Lights",
+        "Interpretations of the Greifswald Lights",
+        "Uncertainties in the Greifswald Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_visual_ev_0d2257",
+      "title": "What Do the Greifswald Recordings Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Greifswald 1990 Visual Evidence Chain",
+        "Greifswald Case Interpretations",
+        "Evidence Types in Greifswald Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_gustrow_rostock_ufo_593232",
+      "title": "The UFO Wave Before the Greifswald Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Güstrow Flap",
+        "Interpretations of the Salzhaff Light",
+        "Evidence Gaps in the Güstrow Flap"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_modern_regional_sigh_a52cfc",
+      "title": "Why Most Modern Sightings Stay Unconvincing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Neubr and enburg Sky Phenomena Key Stages",
+        "Ludwigslust 2008 Sighting Explanations",
+        "Factors Weakening UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_press_created_ufo_wa_ab3eaf",
+      "title": "How Newspapers Built Mecklenburg's 1990 UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the Mecklenburg UFO Wave",
+        "Interpretations of the Greifswald Lights",
+        "Media Mechanics of the UFO Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_1665_sky_b_6ca05d",
+      "title": "What Happened Above Stralsund in 1665?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Stralsund Sky Battle",
+        "Interpretations of the 1665 Phenomenon",
+        "Evolution of the Grey Disc Motif"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_media_stor_bfea00",
+      "title": "How 1665 Media Shaped Stralsund's Sky Battle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Stralsund Sky Battle",
+        "Interpretations of the Stralsund Apparition",
+        "Media Filters of the 1665 Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9",
+      "title": "Why North Rhine Westphalia Keeps Seeing UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of NRW UFO Records",
+        "Interpretations of the 2021 Light Cone",
+        "Common NRW Sightings Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_aircraft_flight_path_9426a7",
+      "title": "When Aircraft Lights Seem to Hover Over NRW",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "process_pipeline"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Aircraft Sighting Reconstruction Steps",
+        "Aviation vs. UFO Interpretations",
+        "NRW Airport Traffic Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_camera_artefact_case_419047",
+      "title": "Why UFO Photos Can Look Better Than the Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Digital Image Degradation Pipeline",
+        "UFO Photography Artifact Analysis",
+        "GEP Investigation Evidence Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_drones_balloons_sigh_cdb925",
+      "title": "The Ordinary Objects Behind Strange Low Level Lights",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "timeline_snake",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Drone vs. Foil Balloon Mechanics",
+        "Drone Disruption at Cologne Bonn Airport",
+        "Factors Influencing Low Altitude Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_gep_case_archive_b3300b",
+      "title": "What the GEP UFO Archive Actually Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "data"
+      ],
+      "titles": [
+        "GEP Case Investigation Workflow",
+        "GEP Verdict Definitions and Meanings",
+        "North Rhine Westphalia Archive Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_ludenscheid_gep_lega_3f8ae4",
+      "title": "How Ludenscheid Became Germany's UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEP Evolution in Lüdenscheid",
+        "GEP Investigation Methodology Logic",
+        "GEP Archive Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_meteor_fireball_repo_17313d",
+      "title": "Why Distant Meteors Look Local in NRW",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Expert Meteor Path Reconstruction",
+        "Witness Perception vs. Physical Reality",
+        "Fireball Characteristics in NRW"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_multi_city_ufo_flaps_5473ad",
+      "title": "How One Strange Light Becomes a Regional Flap",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Evolution of a Regional UFO Flap",
+        "Distinguishing High Altitude Aerospace Events",
+        "Data Points for Flap Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_nrw_report_totals_ed800e",
+      "title": "Why NRW Reports More UFOs Than Other States",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "rank_podium",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "data",
+        "taxonomy"
+      ],
+      "titles": [
+        "CENAP UFO Reporting Data Layers",
+        "Regional Reporting Rates per Million Residents",
+        "Factors Influencing NRW Reporting Volume"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_official_ufo_respons_d8c2f0",
+      "title": "What NRW Authorities Do With UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Police Response to Aerial Sightings",
+        "Levels of Official Confirmation",
+        "Aviation Security Stakeholders in NRW"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_rhine_ruhr_light_con_5d45b9",
+      "title": "The Night a Rocket Cloud Looked Like a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Landsat 9 Launch and Deorbit Key Stages",
+        "Rhine Ruhr Sighting Explanations",
+        "Visual Characteristics of the Light Cone"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_starlink_satellite_c_0af769",
+      "title": "How Satellites Became NRW's Most Common UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Satellite Identification Investigation Workflow",
+        "Starlink vs. Rocket Stage Phenomena",
+        "Optical Factors in NRW Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "North_Rhine-Westphal_f5bdd9_unresolved_case_limi_29e03c",
+      "title": "What Unresolved UFO Cases Really Mean in NRW",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEP Investigation of NRW Sightings",
+        "Unresolved Case Categories in NRW",
+        "Requirements for Persuasive NRW Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211",
+      "title": "Why Rhineland Palatinate Reports So Many UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ramstein Air Base Historical Time line",
+        "Rhineland Palatinate Sighting Explanations",
+        "Categories of Aerial Uncertainty"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_air_traffic_misident_22a3fa",
+      "title": "When Ordinary Air Traffic Looks Extraordinary",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigating Aircraft Sightings in Rhineland Palatinate",
+        "Visual Illusions vs. Actual Aircraft Behavior",
+        "Aviation Activity in Rhineland Palatinate"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_balloons_meteors_lig_d19feb",
+      "title": "The Everyday Objects Behind Dramatic Sky Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteorite Identification in Koblenz 2026",
+        "Balloons vs. Meteors in Rhineland Palatinate",
+        "Mechanisms of Apparent Aerial Motion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_blue_book_ramstein_f_8f19dd",
+      "title": "Why Blue Book Marked Ramstein Unidentified",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ramstein Sighting Investigation Pipeline",
+        "Ramstein Sighting Interpretations",
+        "Evidence Limits in Ramstein File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_planet_star_confusio_3aed98",
+      "title": "How Planets Become Convincing UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "timeline_genealogy",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Venus and Jupiter UFO Misidentifications",
+        "Verifying Planetary Light Sources",
+        "Mechanisms of Visual Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_ramstein_1962_sighti_863520",
+      "title": "What Did the Ramstein Pilot See in 1962?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ramstein Sighting Observation Key Stages",
+        "Conventional Explanations for Ramstein Case",
+        "Missing Evidence in Blue Book File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_ramstein_drone_incur_2e2669",
+      "title": "The Unidentified Drones Over Ramstein Air Base",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Ramstein Air Base Drone Time line",
+        "Potential Motives for Ramstein Incursions",
+        "Challenges in Drone Neutralization"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_ramstein_ufo_specula_1b4897",
+      "title": "Why Ramstein Generates So Many UFO Rumours",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "lighthouse"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Ramstein Air Base UFO Archive Time line",
+        "Interpreting Ramstein Aerial Activity",
+        "Factors Fueling Ramstein UFO Speculation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_rural_dark_sky_sight_9b423c",
+      "title": "How Dark Rural Skies Create Strange Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Common Objects in Rhineland Palatinate Skies",
+        "Darkness as Visibility vs. Perception",
+        "Rhineland Palatinate Observation Hotspots"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_satellite_sighting_w_e1ec66",
+      "title": "Why Satellite Trains Trigger UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Verifying Starlink Satellite Sightings",
+        "Distinguishing Starlink from Other Phenomena",
+        "Optical Effects of Satellite Passes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_ufo_reporting_rate_9bc2ba",
+      "title": "Why the State's UFO Reporting Rate Spiked",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CENAP Investigation Workflow",
+        "Rhineland Palatinate Reporting Drivers",
+        "Common Causes of 2024 Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_unresolved_report_ca_520131",
+      "title": "Not Every Unidentified Object Is Equally Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Investigation Evidence Workflow",
+        "Distinguishing Unresolved vs. Indeterminate",
+        "Rhineland Palatinate Case Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhineland-Palatinate_9f2211_witness_perception_l_bc1f37",
+      "title": "Why Eyewitnesses Misjudge Speed and Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Error in Speed Estimation",
+        "Ramstein 1962 Sighting Interpretations",
+        "Factors Weakening Visual Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5",
+      "title": "Saarland's UFO Story Between Mystery and Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Rastpfuhl Incident",
+        "Rastpfuhl Incident Scientific Hypotheses",
+        "Common Causes of Saarland Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_cenap_investigation_c2e205",
+      "title": "How Saarland UFO Reports Are Investigated",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "CENAP Witness Reporting Workflow",
+        "CENAP Case Classification Criteria",
+        "Common Causes of Saarland Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_chladni_interpretati_fad83e",
+      "title": "How Chladni Interpreted Saarland's Strange Object",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ernst Chladni's Meteoritic Research Time line",
+        "Rastpfuhl Interpretations: Chladni vs. Modern UFO",
+        "Components of the Rastpfuhl Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_meaning_of_unidentif_199dca",
+      "title": "Unresolved Does Not Mean Alien in Saarland",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UFO Classification Logic in Saarland",
+        "Missing Data in Saarland Reports",
+        "2024 Saarland Investigation Pathway"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_meteor_bolide_explan_b4df8b",
+      "title": "Could a Bolide Explain the 1826 Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rastpfuhl 1826 Witness Experience Key Stages",
+        "Bolide Theory vs. Witness Testimony",
+        "Modern Bolide Comparison Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_military_radar_case_026ad2",
+      "title": "Where Is Saarland's Landmark Military UFO Case?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Saarland Aviation Claim Hierarchy",
+        "Saarland Military Speculation vs. Reality",
+        "Requirements for a Landmark Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_missing_official_fil_cfb4f4",
+      "title": "Why Saarland's Oldest UFO File Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Documentation Path of the 1826 Rastpfuhl Case",
+        "Interpretations of the Rastpfuhl Phenomenon",
+        "Missing Evidence in the Lost Dossier"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_ordinary_ufo_explana_25e14f",
+      "title": "Why Saarland's UFOs Often Have Ordinary Causes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "CENAP Investigation Workflow for Saarland Reports",
+        "Optical Effects vs. Physical Objects",
+        "Common Sources of Unfamiliar Night Sights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_rastpfuhl_1826_sight_40df3f",
+      "title": "What Happened Over Rastpfuhl in 1826?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The 1826 Rastpfuhl Investigation Chain",
+        "Rastpfuhl Phenomenon Interpretations",
+        "Evidence Layers of the 1826 Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_rastpfuhl_internatio_d60bf2",
+      "title": "How a Saarland Sighting Reached the World",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rastpfuhl Account Publication Path",
+        "Source Evolution of Rastpfuhl",
+        "Rastpfuhl Observation Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_rastpfuhl_witness_te_8c29a7",
+      "title": "How Reliable Were the Rastpfuhl Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rastpfuhl Testimony Documentation Path",
+        "Rastpfuhl Evidence Reliability Trade offs",
+        "Witness Observation Categories in 1826"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_saarbrucken_2021_cas_02879e",
+      "title": "Why the 2021 Saarbrucken Case Remains Weak",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "2021 Saarbrücken UFO Case Time line",
+        "Plausible Explanations for Saarbrücken Sighting",
+        "Missing Data for Case Resolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saarland_af09d5_saarland_2024_report_e15aed",
+      "title": "What Saarland's 2024 UFO Reports Became",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "CENAP UFO Investigation Workflow",
+        "Saarland 2024 Case Identifications",
+        "Evidence Quality Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0",
+      "title": "Why Saxony Anhalt's UFO Mysteries Usually Fade",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Saxony Anhalt Aerial Sightings",
+        "Halle 1985 Case Interpretations",
+        "Modern Saxony Anhalt Aerial Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_airspace_security_re_de7f85",
+      "title": "When a UFO Report Became a Security Alert",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Halle 1985 Security Response Key Stages",
+        "Interpretation of East German Airspace Files",
+        "East German Airspace Security Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_changing_ufo_imagery_b6c159",
+      "title": "From Cigar Shapes to Lines of Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Saxony Anhalt UFO Descriptions",
+        "Interpretations of Modern Sky Lights",
+        "Factors Influencing Saxony Anhalt UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_credible_witness_lim_3d8f82",
+      "title": "Why Credible Witnesses Still Disagree About UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Witness Analysis of the Halle Incident",
+        "Human Vision vs. Measuring Instruments",
+        "Reliability of Witness Testimony Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_east_germany_archive_30c32d",
+      "title": "Why East Germany's UFO Record Is So Incomplete",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1985 Halle Aerial Investigation",
+        "East German vs Western UFO Archives",
+        "Factors Inhibiting East German UFO Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_fireball_distance_il_d8e7d6",
+      "title": "Why Fireballs Look Closer Than They Are",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Meteoroid Trajectory and Dark Flight",
+        "Halle and Haldensleben Observation Analysis",
+        "Factors Influencing Distance Misjudgment"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_halle_1985_meteor_ca_e3b810",
+      "title": "Was Halle's 1985 UFO Actually a Meteor?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Stasi Investigation of Halle Sighting",
+        "Halle 1985 Interpretations vs. Evidence",
+        "Factors Influencing Witness Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_magdeburg_2009_fireb_4b82d7",
+      "title": "How Magdeburg's Fireball Became a UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Magdeburg Fireball Observation Time line",
+        "Meteor vs. Craft Interpretations",
+        "Fireball Diagnostic Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_meaning_of_unresolve_2b6434",
+      "title": "What Does Unresolved Really Mean in UFO Records?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Saxony Anhalt UFO Record Categories",
+        "Haldensleben Sighting Evidence Comparison",
+        "Barriers to UFO Investigation Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_modern_ufo_case_data_ce46ac",
+      "title": "What the Modern UFO Records Actually Tell US",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Saxony Anhalt UFO Case Classifications",
+        "Conventional vs. Unresolved Saxony Anhalt Records",
+        "Common Sources of Saxony Anhalt UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_starlink_sighting_pa_2b3cf7",
+      "title": "How Starlink Changed Saxony Anhalt's UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Starlink Satellite Train Lifecycle",
+        "Zeitz Sighting Identification Analysis",
+        "Factors Influencing Modern UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_stasi_ufo_records_d53150",
+      "title": "What the Stasi Wanted From UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "bullseye"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Halle 1985 Aerial Investigation Key Stages",
+        "Interpretations of the Halle Sighting",
+        "Stasi Security Priorities in Aerial Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_venus_ufo_reports_369139",
+      "title": "Why Venus Keeps Being Reported as a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Venus Identification Investigation Workflow",
+        "Venus vs. Aircraft Perceptual Cues",
+        "Factors Influencing Venus Misidentification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030",
+      "title": "Why Saxony's UFO History Remains So Fragmented",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Saxony UFO Record Key Stages",
+        "Aue and Schöneck Interpretations",
+        "Common Saxon UFO Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_aue_aircraft_trail_c7be0a",
+      "title": "Was the Aue UFO Just an Aircraft Trail?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aue Sighting Observation Key Stages",
+        "Aue Sighting Interpretations",
+        "Contrail Formation Mechanics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_chemnitz_two_sightin_0fe8e2",
+      "title": "Two Chemnitz Sightings, Two Very Different Verdicts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Chemnitz UFO Investigation Time line 1994",
+        "Evidence Quality in Chemnitz Reports",
+        "Atmospheric Effects vs. Craft Motion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_contrail_perspective_237f7b",
+      "title": "Why Ordinary Contrails Can Look Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Contrail Formation and Distortion Process",
+        "Aue Saxony Contrail Interpretations",
+        "Practical Checks for Contrail Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_dresden_following_li_b0fbdd",
+      "title": "The Lights That Seemed to Follow a Car",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Dresden Light Phenomenon Time line",
+        "Dresden Light Interpretations",
+        "Mechanisms of Cloud Illumination"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_gdr_ufo_record_gaps_3ba193",
+      "title": "Why So Many Saxon UFO Reports Disappeared",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Data Loss in Saxon UFO Records",
+        "Interpreting the Saxon Silence",
+        "GDR Aerial Reporting Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_jupiter_ufo_misident_912b94",
+      "title": "How Jupiter Became a UFO Over Chemnitz",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Jupiter vs. Aircraft Interpretations",
+        "Chemnitz Observation Analysis Key Stages",
+        "Factors Influencing Planetary Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_media_amplified_ufo_b35404",
+      "title": "How Media Attention Amplified Saxony's UFO Scares",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Key Stages in the Vogtland Crash Scare",
+        "Aue and Neumark Case Interpretations",
+        "Mechanisms of Media Driven UFO Scares"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_plauen_abduction_cla_a0cf01",
+      "title": "Why Plauen's Abduction Stories Remain Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Plauen Sighting",
+        "Interpretations of the Plauen Narrative",
+        "Missing Evidence in Plauen Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_projected_light_ufo_2972b6",
+      "title": "When Searchlights Look Like Craft in the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Formation of Cloud Projections",
+        "UFO vs. Sky Beamer Indicators",
+        "Saxony Geography and Projection Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_saxony_sighting_geog_2a51db",
+      "title": "Where Saxony's UFO Stories Took Hold",
+      "infographic_count": 3,
+      "templates": [
+        "window",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Saxony UFO Reporting Environments",
+        "Dresden and Chemnitz Case Analysis",
+        "Vogtland and Erzgebirge Key Stages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_unresolved_not_extra_6455d3",
+      "title": "What Unresolved Really Means in UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "tug_of_war",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "process"
+      ],
+      "titles": [
+        "GEIPAN Classification of UAP Uncertainty",
+        "Evidence Quality in Saxony Cases",
+        "Requirements for Stronger Saxon Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saxony_caf030_witness_perception_s_91a189",
+      "title": "Why Honest Witnesses Can Misread the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tree_map",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Perception vs. Physical Reality in Saxony",
+        "Saxony Night Sighting Evidence Standards",
+        "Angular Motion vs. Physical Speed"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e",
+      "title": "What Is Really Seen Over Schleswig Holstein?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Schleswig Holstein Aerial Events",
+        "Evidence Quality in Regional Sightings",
+        "Factors Shaping Schleswig Holstein Aerial Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_aircraft_drone_mixup_eb09da",
+      "title": "The Ordinary Aircraft Most Often Mistaken for UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Investigating Schleswig Holstein Aerial Sightings",
+        "Aircraft vs. Helicopter Visual Illusions",
+        "Lawful Drone Characteristics in Schleswig Holstein"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_brunsbuttel_drone_ca_83c8c7",
+      "title": "What Happened Over Brunsbuttel in 2024?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Brunsbüttel Drone Investigation Chronology",
+        "Brunsbüttel Aerial Sighting Interpretations",
+        "Brunsbüttel Critical Infrastructure Assets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_case_verdicts_compar_0ebefd",
+      "title": "Unresolved Does Not Mean Extraterrestrial",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Schleswig Holstein UFO Case Classifications",
+        "Evidence Quality vs. Observation Drama",
+        "Schleswig Holstein Debunking Examples"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_coastal_misidentific_a83da1",
+      "title": "Why Coastal Lights Look Stranger Here",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Maritime Sources of Coastal Lights",
+        "Visual Distortions Over Water",
+        "Evidence Quality for Coastal Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_drone_wave_2025_b164f4",
+      "title": "Why the 2025 Drone Wave Was So Confusing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Schleswig Holstein Drone Wave Time line",
+        "Interpretations of the Drone Wave",
+        "Categorization of Reported Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_flensburg_meteor_evi_702f3d",
+      "title": "The Flensburg Meteor Set the Evidence Standard",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Flensburg Meteorite Identification Key Stages",
+        "Flensburg Evidence vs. Weak UFO Claims",
+        "Flensburg Meteorite Scientific Properties"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_kiel_naval_skies_c91bcb",
+      "title": "How Kiel's Naval Presence Shapes Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "2025 Kiel Drone Investigation Time line",
+        "Kiel Aerial Observation Interpretations",
+        "Kiel Waterfront Identification Traps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_private_ufo_archives_a39dee",
+      "title": "Who Keeps Schleswig Holstein's UFO Records?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rendsburg Photograph Investigation Workflow",
+        "Civilian vs. Official Record Systems",
+        "Schleswig Holstein Record Preservation Channels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_protected_site_respo_56543d",
+      "title": "How Authorities Investigate Drones Near Protected Sites",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Police Drone Response Workflow",
+        "Risks of Drone Intervention",
+        "Evidence for Operator Attribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_regional_fireball_re_c04cc9",
+      "title": "How Often Do Fireballs Cross Northern Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_snake",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Distinguishing Fireballs from Space Debris",
+        "Verifying the 2019 Flensburg Fireball",
+        "Factors Influencing Fireball Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_rendsburg_photo_limi_0b80fc",
+      "title": "Why the Rendsburg Photo Proves So Little",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "timeline_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Plausible Explanations for Rendsburg Blurs",
+        "Data Deficient Evidence Workflow",
+        "Missing Data Requirements for Rendsburg"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Schleswig-Holstein_76916e_sky_object_misidenti_40557d",
+      "title": "Which Objects Create the Strangest False Alarms?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Satellite Identification Verification Steps",
+        "Schleswig Holstein Atmospheric False Alarms",
+        "Natural Phenomena in Northern Germany"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08",
+      "title": "How Strong Are Thuringia's Best UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Thuringian UFO Cases",
+        "Evidence Quality in Thuringian Reports",
+        "Sources of Modern Thuringian Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_border_reports_missi_5eacb8",
+      "title": "Why Thuringia's Border UFO Reports Resist Resolution",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Thuringia Border Sightings",
+        "Plausible Explanations for Border Anomalies",
+        "Missing Data in Thuringia Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_east_german_ufo_clas_bb13b2",
+      "title": "Where UFO Reports Went in East German Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "East German Aerial Sighting Workflow",
+        "Newenhof Case Interpretations",
+        "East German Security Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_eisenach_border_sigh_33e830",
+      "title": "Why Eisenach's UFO Reports Became Border Alerts",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "East German Border Security Workflow",
+        "Eisenach Sighting Interpretations",
+        "Historical Border Incursion Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_escape_balloons_ufo_8d5d38",
+      "title": "How Escape Balloons Shaped Thuringia's UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Thuringian Balloon Escapes",
+        "Stasi Investigation Priorities in Neuenhof",
+        "Stasi Surveillance of Border Violations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_fehrenbach_hoax_dete_2ccf2b",
+      "title": "The Simple Investigative Move That Solved Fehrenbach",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fehrenbach Investigation Methodology",
+        "Fehrenbach Photographic Evidence Analysis",
+        "Forensic Rules for UFO Photos"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_fehrenbach_toy_sauce_9bcce9",
+      "title": "How a Toy Saucer Fooled the UFO World",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Fehrenbach UFO Case",
+        "Fehrenbach Photographic Evidence Analysis",
+        "Robo Saucer Model Matching Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_gleimershausen_evide_520303",
+      "title": "Why the Gleimershausen Encounter Remains Evidentially Weak",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Chronology of the Gleimershausen Claim",
+        "Evidence vs. Narrative Analysis",
+        "Gleimershausen Case Discrepancies"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_linke_cold_war_cultu_bb95e7",
+      "title": "Did Flying Saucer Culture Shape the Linke Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Linke Narrative",
+        "Interpretations of the Linke Claim",
+        "Factors Influencing the 1952 Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_linke_us_intelligenc_46d946",
+      "title": "What the American Files Actually Say About Linke",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Linke Account Transmission Path",
+        "CIA Record vs. Physical Evidence",
+        "CIA Report 00 W 23682 Metadata"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_neuenhof_moon_explan_ce6a3f",
+      "title": "Was the Neuenhof UFO Simply the Moon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stasi Investigation of Neuenhof Sighting",
+        "Neuenhof Sighting Interpretations",
+        "Data Gaps in Neuenhof Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_stasi_neuenhof_inqui_ba9dee",
+      "title": "Why the Stasi Investigated the Neuenhof Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Stasi Investigation of Neuenhof Sighting",
+        "Newenhof Sighting Interpretations",
+        "Stasi Aerial Security Contexts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Thuringia_f28d08_thuringia_ufo_media_dd33cf",
+      "title": "How Media Attention Changed Thuringia's UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "funnel_layers"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Gleimershausen Case Media Lifecycle",
+        "Gleimershausen vs. Fehrenbach Comparison",
+        "Media Effects in Fehrenbach Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

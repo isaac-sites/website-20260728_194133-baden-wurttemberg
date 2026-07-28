@@ -1,0 +1,68 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 208,
+    "max_level": 2,
+    "deep_report_count": 0,
+    "level_1_count": 16,
+    "level_counts": {
+      "1": 16,
+      "2": 192
+    },
+    "max_children_any_node": 12,
+    "p90_children": 12,
+    "p90_topic_children": 12,
+    "avg_children": 12.0,
+    "primary_branch_count": 16,
+    "visible_nodes_depth_2": 208,
+    "visible_nodes_depth_3": 208,
+    "max_depth": 1,
+    "max_breadth": 192,
+    "breadth_by_depth": {
+      "0": 16,
+      "1": 192
+    },
+    "p90_title_length": 16,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 16,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": false,
+    "topic_labels": [
+      "Why Brandenburg's UFO Record Remains So Elusive",
+      "The Airport Mystery That Defined Bremen's UFO History",
+      "Why Saxony's UFO History Remains So Fragmented",
+      "Which Baden Wurttemberg UFO Cases Still Resist...",
+      "Bavaria's UFO Stories Under the Evidence Test",
+      "Why Berlin's UFO History Lives in Archives",
+      "Why Hamburg's UFO Mysteries Usually Fade",
+      "Why Hesse's UFO Story Is Mostly About Evidence",
+      "From Greifswald's Lights to Stralsund's Sky Battle",
+      "When Strange Lights Crossed Lower Saxony's Skies",
+      "Why North Rhine Westphalia Keeps Seeing UFOs",
+      "Why Rhineland Palatinate Reports So Many UFOs",
+      "Saarland's UFO Story Between Mystery and Explanation",
+      "Why Saxony Anhalt's UFO Mysteries Usually Fade",
+      "What Is Really Seen Over Schleswig Holstein?",
+      "How Strong Are Thuringia's Best UFO Cases?"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "signal-cobalt",
+    "site_visual_identity_source": "remote_model",
+    "site_visual_identity_confidence": "high",
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "hybrid",
+    "palette": "signal-cobalt",
+    "motif": "horizon"
+  },
+  "candidates": []
+}

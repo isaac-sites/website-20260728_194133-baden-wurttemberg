@@ -1,0 +1,2497 @@
+{
+  "generated_at_utc": "2026-07-28T18:35:55.704306Z",
+  "summary": {
+    "total_pages_with_permalink": 224,
+    "visible_pages": 208,
+    "hidden_pages": 16,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 803,
+    "inline_internal_target_page_count": 208,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 207,
+    "visible_pages_without_inline_outbound_links": 1,
+    "average_inline_inbound_links_per_visible_page": 3.86,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 208,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_friesenheim_passive_e4b02d",
+        "title": "Passive Radar",
+        "permalink": "/passive-radar/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Baden-Wurttemberg_dc11f2",
+        "title": "Which Baden Wurttemberg UFO Cases Still Resist...",
+        "permalink": "/which-baden-wurttemberg-ufo-cases-still/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_2024_sighting_surge_4e9950",
+        "title": "2024 Reports",
+        "permalink": "/2024-reports/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_friesenheim_passive_e4b02d",
+        "title": "Passive Radar",
+        "permalink": "/passive-radar/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+        "title": "GEP Archive",
+        "permalink": "/gep-archive/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+        "title": "Media Coverage",
+        "permalink": "/media-coverage/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_official_record_gaps_54d358",
+        "title": "Official Records",
+        "permalink": "/official-records-7dfe33/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "title": "Witnesses",
+        "permalink": "/witnesses-afe9a0/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_regional_sighting_fa_e94cef",
+        "title": "Regional Factors",
+        "permalink": "/regional-factors/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+        "title": "Starlink",
+        "permalink": "/starlink/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_stuttgart_airport_ca_d32ab5",
+        "title": "Airport Case",
+        "permalink": "/airport-case/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_stuttgart_sky_lanter_42eba0",
+        "title": "Sky Lanterns",
+        "permalink": "/sky-lanterns/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_unresolved_case_reco_09c950",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-25749b/"
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_waiblingen_led_kite_73435c",
+        "title": "Waiblingen",
+        "permalink": "/waiblingen/"
+      },
+      {
+        "basename": "Bavaria_3c0123",
+        "title": "Bavaria's UFO Stories Under the Evidence Test",
+        "permalink": "/bavarias-ufo-stories-under-the-evidence/"
+      },
+      {
+        "basename": "Bavaria_3c0123_bavaria_ufo_media_7e9fa7",
+        "title": "Media Stories",
+        "permalink": "/media-stories/"
+      },
+      {
+        "basename": "Bavaria_3c0123_bavarian_airbase_cla_a34327",
+        "title": "Airbase Claims",
+        "permalink": "/airbase-claims/"
+      },
+      {
+        "basename": "Bavaria_3c0123_civilian_ufo_investi_584498",
+        "title": "Civilian Files",
+        "permalink": "/civilian-files/"
+      },
+      {
+        "basename": "Bavaria_3c0123_cold_war_flying_disc_c65797",
+        "title": "1948 Records",
+        "permalink": "/1948-records/"
+      },
+      {
+        "basename": "Bavaria_3c0123_common_ufo_explanati_51afb7",
+        "title": "Common Causes",
+        "permalink": "/common-causes/"
+      },
+      {
+        "basename": "Bavaria_3c0123_munich_pilot_sightin_014f00",
+        "title": "Pilot Sighting",
+        "permalink": "/pilot-sighting/"
+      },
+      {
+        "basename": "Bavaria_3c0123_nuremberg_sky_battle_089e18",
+        "title": "Nuremberg 1561",
+        "permalink": "/nuremberg-1561/"
+      },
+      {
+        "basename": "Bavaria_3c0123_official_ufo_archive_b3e914",
+        "title": "Official Archives",
+        "permalink": "/official-archives/"
+      },
+      {
+        "basename": "Bavaria_3c0123_starlink_sighting_wa_780c46",
+        "title": "Starlink Waves",
+        "permalink": "/starlink-waves/"
+      },
+      {
+        "basename": "Bavaria_3c0123_testing_bavarian_cas_2f6323",
+        "title": "Testing Cases",
+        "permalink": "/testing-cases/"
+      },
+      {
+        "basename": "Bavaria_3c0123_ufo_report_totals_b2f2e2",
+        "title": "Report Numbers",
+        "permalink": "/report-numbers/"
+      },
+      {
+        "basename": "Bavaria_3c0123_unresolved_bavarian_05e480",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-263d49/"
+      },
+      {
+        "basename": "Berlin_062b06",
+        "title": "Why Berlin's UFO History Lives in Archives",
+        "permalink": "/why-berlins-ufo-history-lives-in/"
+      },
+      {
+        "basename": "Berlin_062b06_berlin_1954_meteor_9abba8",
+        "title": "Meteor Case",
+        "permalink": "/meteor-case/"
+      },
+      {
+        "basename": "Berlin_062b06_blue_book_berlin_fil_e47207",
+        "title": "Blue Book",
+        "permalink": "/blue-book/"
+      },
+      {
+        "basename": "Berlin_062b06_cold_war_air_securit_2c741f",
+        "title": "Air Security",
+        "permalink": "/air-security/"
+      },
+      {
+        "basename": "Berlin_062b06_government_file_myth_dafb06",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Berlin_062b06_insufficient_data_19_3efc57",
+        "title": "Insufficient Data",
+        "permalink": "/insufficient-data/"
+      },
+      {
+        "basename": "Berlin_062b06_ordinary_ufo_explana_25e14f",
+        "title": "Likely Causes",
+        "permalink": "/likely-causes/"
+      },
+      {
+        "basename": "Berlin_062b06_searchlights_clouds_5f4ac3",
+        "title": "Searchlights",
+        "permalink": "/searchlights/"
+      },
+      {
+        "basename": "Berlin_062b06_silent_object_1983_558450",
+        "title": "The Incident Usually Described As Berlin’s 1983 “silent...",
+        "permalink": "/the-incident-usually-described-as/"
+      },
+      {
+        "basename": "Berlin_062b06_stasi_ufo_files_fa71cb",
+        "title": "Stasi Files",
+        "permalink": "/stasi-files/"
+      },
+      {
+        "basename": "Berlin_062b06_tempelhof_1952_case_cb5c83",
+        "title": "Tempelhof 1952",
+        "permalink": "/tempelhof-1952/"
+      },
+      {
+        "basename": "Berlin_062b06_tempelhof_formation_7e80c0",
+        "title": "Four Objects",
+        "permalink": "/four-objects/"
+      },
+      {
+        "basename": "Berlin_062b06_unexplained_vs_under_d828b3",
+        "title": "Evidence Gaps",
+        "permalink": "/evidence-gaps/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c",
+        "title": "Why Brandenburg's UFO Record Remains So Elusive",
+        "permalink": "/why-brandenburgs-ufo-record-remains-so/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "title": "BER Shutdowns",
+        "permalink": "/ber-shutdowns/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "title": "CENAP Reports",
+        "permalink": "/cenap-reports/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "title": "Common Mistakes",
+        "permalink": "/common-mistakes/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "title": "UFOs and Drones",
+        "permalink": "/ufos-and-drones/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "title": "Official Records",
+        "permalink": "/official-records/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "title": "Flare Theory",
+        "permalink": "/flare-theory/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "title": "Greifswald Lights",
+        "permalink": "/greifswald-lights/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "title": "Military Sites",
+        "permalink": "/military-sites/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "title": "No Landmark Case",
+        "permalink": "/no-landmark-case/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "title": "Rathenow",
+        "permalink": "/rathenow/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "title": "Drone Clusters",
+        "permalink": "/drone-clusters/"
+      },
+      {
+        "basename": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "title": "Testing Reports",
+        "permalink": "/testing-reports/"
+      },
+      {
+        "basename": "Bremen_20b942",
+        "title": "The Airport Mystery That Defined Bremen's UFO History",
+        "permalink": "/the-airport-mystery-that-defined-bremens/"
+      },
+      {
+        "basename": "Bremen_20b942_air_france_misidenti_2cb8ae",
+        "title": "Holding Flight",
+        "permalink": "/holding-flight/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "title": "Airport Incident",
+        "permalink": "/airport-incident/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_case_verdict_26d192",
+        "title": "Case Verdict",
+        "permalink": "/case-verdict/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_police_inquir_0e62ce",
+        "title": "Police Inquiry",
+        "permalink": "/police-inquiry/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "title": "Radar Evidence",
+        "permalink": "/radar-evidence/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "title": "Regional Pattern",
+        "permalink": "/regional-pattern/"
+      },
+      {
+        "basename": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "title": "Witnesses",
+        "permalink": "/witnesses/"
+      },
+      {
+        "basename": "Bremen_20b942_flight_disruption_sa_0a30bd",
+        "title": "Flight Safety",
+        "permalink": "/flight-safety/"
+      },
+      {
+        "basename": "Bremen_20b942_model_aircraft_theor_86c264",
+        "title": "Model Aircraft",
+        "permalink": "/model-aircraft/"
+      },
+      {
+        "basename": "Bremen_20b942_radar_angel_theory_2355c8",
+        "title": "Radar Angel",
+        "permalink": "/radar-angel/"
+      },
+      {
+        "basename": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "title": "Search Helicopter",
+        "permalink": "/search-helicopter/"
+      },
+      {
+        "basename": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "title": "Meaning of UFO",
+        "permalink": "/meaning-of-ufo/"
+      },
+      {
+        "basename": "Hamburg_155277",
+        "title": "Why Hamburg's UFO Mysteries Usually Fade",
+        "permalink": "/why-hamburgs-ufo-mysteries-usually-fade/"
+      },
+      {
+        "basename": "Hamburg_155277_distance_perception_588628",
+        "title": "Distance Errors",
+        "permalink": "/distance-errors/"
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_2009_firebal_74fad2",
+        "title": "2009 Fireball",
+        "permalink": "/2009-fireball/"
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_false_alarms_09f678",
+        "title": "False Alarms",
+        "permalink": "/false-alarms/"
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_ufo_archives_3ed0f5",
+        "title": "Archives",
+        "permalink": "/archives/"
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_ufo_database_7464b1",
+        "title": "Sighting Data",
+        "permalink": "/sighting-data/"
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_ufo_investig_fa56f8",
+        "title": "Investigation",
+        "permalink": "/investigation/"
+      },
+      {
+        "basename": "Hamburg_155277_march_2024_lights_36e42c",
+        "title": "March 2024",
+        "permalink": "/march-2024/"
+      },
+      {
+        "basename": "Hamburg_155277_rocket_reentry_hambu_d0a3e8",
+        "title": "Rocket Re entry",
+        "permalink": "/rocket-re-entry/"
+      },
+      {
+        "basename": "Hamburg_155277_shapes_between_light_dc650c",
+        "title": "Apparent Shapes",
+        "permalink": "/apparent-shapes/"
+      },
+      {
+        "basename": "Hamburg_155277_sky_lantern_ufo_flap_69b944",
+        "title": "Sky Lanterns",
+        "permalink": "/sky-lanterns-9c37f8/"
+      },
+      {
+        "basename": "Hamburg_155277_st_pauli_led_kite_02d824",
+        "title": "St Pauli Kite",
+        "permalink": "/st-pauli-kite/"
+      },
+      {
+        "basename": "Hamburg_155277_starlink_hamburg_sig_e0c8a6",
+        "title": "Starlink",
+        "permalink": "/starlink-667de7/"
+      },
+      {
+        "basename": "Hesse_19bb21",
+        "title": "Why Hesse's UFO Story Is Mostly About Evidence",
+        "permalink": "/why-hesses-ufo-story-is-mostly-about/"
+      },
+      {
+        "basename": "Hesse_19bb21_aircraft_military_id_c30f6d",
+        "title": "Aircraft Cases",
+        "permalink": "/aircraft-cases/"
+      },
+      {
+        "basename": "Hesse_19bb21_cenap_reporting_cent_223f86",
+        "title": "CENAP",
+        "permalink": "/cenap/"
+      },
+      {
+        "basename": "Hesse_19bb21_fernwald_helicopter_37ea1b",
+        "title": "Fernwald",
+        "permalink": "/fernwald/"
+      },
+      {
+        "basename": "Hesse_19bb21_frankfurt_airport_dr_76971c",
+        "title": "Airport Drones",
+        "permalink": "/airport-drones/"
+      },
+      {
+        "basename": "Hesse_19bb21_frankfurt_sighting_p_7c2071",
+        "title": "Frankfurt",
+        "permalink": "/frankfurt/"
+      },
+      {
+        "basename": "Hesse_19bb21_giessen_explained_ca_db30a5",
+        "title": "Gießen Cases",
+        "permalink": "/gießen-cases/"
+      },
+      {
+        "basename": "Hesse_19bb21_hesse_fireball_repor_bbe7f9",
+        "title": "Fireballs",
+        "permalink": "/fireballs/"
+      },
+      {
+        "basename": "Hesse_19bb21_hesse_ufo_investigat_9709fd",
+        "title": "Investigation",
+        "permalink": "/investigation-629971/"
+      },
+      {
+        "basename": "Hesse_19bb21_meaning_of_unresolve_2b6434",
+        "title": "Unresolved",
+        "permalink": "/unresolved/"
+      },
+      {
+        "basename": "Hesse_19bb21_rhine_main_searchlig_c5ad31",
+        "title": "Searchlights",
+        "permalink": "/searchlights-ad50fc/"
+      },
+      {
+        "basename": "Hesse_19bb21_starlink_satellite_r_e3f97c",
+        "title": "Satellites",
+        "permalink": "/satellites/"
+      },
+      {
+        "basename": "Hesse_19bb21_ufo_photo_misidentif_c40a2b",
+        "title": "Photo Errors",
+        "permalink": "/photo-errors/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37",
+        "title": "When Strange Lights Crossed Lower Saxony's Skies",
+        "permalink": "/when-strange-lights-crossed-lower/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_algermissen_bangs_li_b5d480",
+        "title": "Algermissen",
+        "permalink": "/algermissen/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_bruchhagen_rocket_de_e3e4b4",
+        "title": "Bruchhagen",
+        "permalink": "/bruchhagen/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_case_classification_7e6225",
+        "title": "Case Ratings",
+        "permalink": "/case-ratings/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_drone_incidents_24eab1",
+        "title": "Drones",
+        "permalink": "/drones/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_hildesheim_fireballs_d37ccd",
+        "title": "Fireballs",
+        "permalink": "/fireballs-4f1dde/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_local_press_ufo_scar_f0821c",
+        "title": "Press",
+        "permalink": "/press/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_military_airfields_b8f6fe",
+        "title": "Airfields",
+        "permalink": "/airfields/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_police_records_limit_e92487",
+        "title": "Police Records",
+        "permalink": "/police-records/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_rural_witness_percep_b43aac",
+        "title": "Witnesses",
+        "permalink": "/witnesses-6320a8/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_satellite_formation_7c911f",
+        "title": "Satellites",
+        "permalink": "/satellites-a9d576/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_space_debris_reentri_741f70",
+        "title": "Space Debris",
+        "permalink": "/space-debris/"
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_wilhelmshaven_coasta_c38d77",
+        "title": "Wilhelmshaven",
+        "permalink": "/wilhelmshaven/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6",
+        "title": "From Greifswald's Lights to Stralsund's Sky Battle",
+        "permalink": "/mecklenburg-vorpommern/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_baltic_military_airs_c1cba6",
+        "title": "Military Airspace",
+        "permalink": "/military-airspace/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_common_ufo_explanati_51afb7",
+        "title": "Common Causes",
+        "permalink": "/common-causes-1cf201/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_flare_exp_362392",
+        "title": "Flare Theory",
+        "permalink": "/flare-theory-899bec/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_lights_ca_9c96d2",
+        "title": "Greifswald Case",
+        "permalink": "/greifswald-case/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_official_5ca0f0",
+        "title": "Official Records",
+        "permalink": "/official-records-a7b318/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_open_ques_45a933",
+        "title": "Open Questions",
+        "permalink": "/open-questions/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_visual_ev_0d2257",
+        "title": "Visual Evidence",
+        "permalink": "/visual-evidence/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_gustrow_rostock_ufo_593232",
+        "title": "1990 Flap",
+        "permalink": "/1990-flap/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_modern_regional_sigh_a52cfc",
+        "title": "Modern Reports",
+        "permalink": "/modern-reports/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_press_created_ufo_wa_ab3eaf",
+        "title": "Media Wave",
+        "permalink": "/media-wave/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_1665_sky_b_6ca05d",
+        "title": "1665 Sky Battle",
+        "permalink": "/1665-sky-battle/"
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_media_stor_bfea00",
+        "title": "Storytelling",
+        "permalink": "/storytelling/"
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9",
+        "title": "Why North Rhine Westphalia Keeps Seeing UFOs",
+        "permalink": "/why-north-rhine-westphalia-keeps/"
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_aircraft_flight_path_9426a7",
+        "title": "Air Traffic",
+        "permalink": "/air-traffic/"
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_camera_artefact_case_419047",
+        "title": "Photo Errors",
+        "permalink": "/photo-errors-dc703c/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Bavaria_3c0123",
+        "title": "Bavaria's UFO Stories Under the Evidence Test",
+        "permalink": "/bavarias-ufo-stories-under-the-evidence/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Berlin_062b06",
+        "title": "Why Berlin's UFO History Lives in Archives",
+        "permalink": "/why-berlins-ufo-history-lives-in/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Brandenburg_a1d94c",
+        "title": "Why Brandenburg's UFO Record Remains So Elusive",
+        "permalink": "/why-brandenburgs-ufo-record-remains-so/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Bremen_20b942",
+        "title": "The Airport Mystery That Defined Bremen's UFO History",
+        "permalink": "/the-airport-mystery-that-defined-bremens/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Bremen_20b942_model_aircraft_theor_86c264",
+        "title": "Model Aircraft",
+        "permalink": "/model-aircraft/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Hamburg_155277",
+        "title": "Why Hamburg's UFO Mysteries Usually Fade",
+        "permalink": "/why-hamburgs-ufo-mysteries-usually-fade/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Hesse_19bb21",
+        "title": "Why Hesse's UFO Story Is Mostly About Evidence",
+        "permalink": "/why-hesses-ufo-story-is-mostly-about/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37",
+        "title": "When Strange Lights Crossed Lower Saxony's Skies",
+        "permalink": "/when-strange-lights-crossed-lower/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_rural_witness_percep_b43aac",
+        "title": "Witnesses",
+        "permalink": "/witnesses-6320a8/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6",
+        "title": "From Greifswald's Lights to Stralsund's Sky Battle",
+        "permalink": "/mecklenburg-vorpommern/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Rhineland-Palatinate_9f2211",
+        "title": "Why Rhineland Palatinate Reports So Many UFOs",
+        "permalink": "/why-rhineland-palatinate-reports-so-many/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Saarland_af09d5",
+        "title": "Saarland's UFO Story Between Mystery and Explanation",
+        "permalink": "/saarlands-ufo-story-between-mystery-and/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Saarland_af09d5_rastpfuhl_witness_te_8c29a7",
+        "title": "Witnesses",
+        "permalink": "/witnesses-b354a2/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Saxony-Anhalt_5678a0",
+        "title": "Why Saxony Anhalt's UFO Mysteries Usually Fade",
+        "permalink": "/why-saxony-anhalts-ufo-mysteries-usually/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Saxony-Anhalt_5678a0_credible_witness_lim_3d8f82",
+        "title": "Witnesses",
+        "permalink": "/witnesses-9fc6b4/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Saxony_caf030",
+        "title": "Why Saxony's UFO History Remains So Fragmented",
+        "permalink": "/why-saxonys-ufo-history-remains-so/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Schleswig-Holstein_76916e",
+        "title": "What Is Really Seen Over Schleswig Holstein?",
+        "permalink": "/what-is-really-seen-over-schleswig/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Thuringia_f28d08",
+        "title": "How Strong Are Thuringia's Best UFO Cases?",
+        "permalink": "/how-strong-are-thuringias-best-ufo-cases/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Hesse_19bb21_cenap_reporting_cent_223f86",
+        "title": "CENAP",
+        "permalink": "/cenap/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Hesse_19bb21_hesse_ufo_investigat_9709fd",
+        "title": "Investigation",
+        "permalink": "/investigation-629971/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Hesse_19bb21_meaning_of_unresolve_2b6434",
+        "title": "Unresolved",
+        "permalink": "/unresolved/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_unresolved_case_limi_29e03c",
+        "title": "Unresolved",
+        "permalink": "/unresolved-843c8a/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "title": "Witnesses",
+        "permalink": "/witnesses-afe9a0/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Berlin_062b06_blue_book_berlin_fil_e47207",
+        "title": "Blue Book",
+        "permalink": "/blue-book/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Hesse_19bb21_frankfurt_sighting_p_7c2071",
+        "title": "Frankfurt",
+        "permalink": "/frankfurt/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Berlin_062b06_searchlights_clouds_5f4ac3",
+        "title": "Searchlights",
+        "permalink": "/searchlights/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_lights_ca_9c96d2",
+        "title": "Greifswald Case",
+        "permalink": "/greifswald-case/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_aircraft_flight_path_9426a7",
+        "title": "Air Traffic",
+        "permalink": "/air-traffic/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_drones_balloons_sigh_cdb925",
+        "title": "Drones",
+        "permalink": "/drones-d4ad56/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saarland_af09d5_meaning_of_unidentif_199dca",
+        "title": "Unidentified",
+        "permalink": "/unidentified/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Hamburg_155277_hamburg_ufo_investig_fa56f8",
+        "title": "Investigation",
+        "permalink": "/investigation/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "North_Rhine-Westphal_f5bdd9_starlink_satellite_c_0af769",
+        "title": "Satellites",
+        "permalink": "/satellites-a19e68/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "title": "Radar Evidence",
+        "permalink": "/radar-evidence/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "title": "Search Helicopter",
+        "permalink": "/search-helicopter/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Hesse_19bb21_starlink_satellite_r_e3f97c",
+        "title": "Satellites",
+        "permalink": "/satellites/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Lower_Saxony_e2cb37_local_press_ufo_scar_f0821c",
+        "title": "Press",
+        "permalink": "/press/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Saarland_af09d5_chladni_interpretati_fad83e",
+        "title": "Chladni",
+        "permalink": "/chladni/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Saxony-Anhalt_5678a0_meaning_of_unresolve_2b6434",
+        "title": "Unresolved",
+        "permalink": "/unresolved-5ef740/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+        "title": "Starlink",
+        "permalink": "/starlink/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Baden-Wurttemberg_dc11f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Bavaria_3c0123",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Berlin_062b06",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Bremen_20b942",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Hamburg_155277",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Hesse_19bb21",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Lower_Saxony_e2cb37",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Mecklenburg-Vorpomme_d975e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "North_Rhine-Westphal_f5bdd9",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Rhineland-Palatinate_9f2211",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Saarland_af09d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Saxony-Anhalt_5678a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Saxony_caf030",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Schleswig-Holstein_76916e",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Thuringia_f28d08",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_index",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "child"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c",
+        "type": "parent"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "type": "sibling"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Baden-Wurttemberg_dc11f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bavaria_3c0123",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Berlin_062b06",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Brandenburg_a1d94c",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Hamburg_155277",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Hesse_19bb21",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Lower_Saxony_e2cb37",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Mecklenburg-Vorpomme_d975e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "North_Rhine-Westphal_f5bdd9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Rhineland-Palatinate_9f2211",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Saarland_af09d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Saxony-Anhalt_5678a0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Saxony_caf030",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Schleswig-Holstein_76916e",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Thuringia_f28d08",
+        "type": "sibling"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_air_france_misidenti_2cb8ae",
+        "type": "child"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_ber_drone_shutdowns_ad32be",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_fragmented_official_2c7964",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_testing_ufo_reports_8be711",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_cenap_report_numbers_468228",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_civilian_misidentifi_524c51",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_drones_change_ufo_me_0a444b",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_greifswald_flare_the_856c88",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_greifswald_legacy_ef71f6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_military_site_specul_1368fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c_rathenow_sightings_abf0bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_missing_landmark_cas_c00ed1",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brandenburg_a1d94c_southern_drone_clust_b0d9dd",
+        "to": "Brandenburg_a1d94c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_radar_angel_theory_2355c8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_radar_angel_theory_2355c8",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_radar_angel_theory_2355c8",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_radar_angel_theory_2355c8",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_radar_angel_theory_2355c8",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_radar_angel_theory_2355c8",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_case_verdict_26d192",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_case_verdict_26d192",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_case_verdict_26d192",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_case_verdict_26d192",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_air_france_misidenti_2cb8ae",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_air_france_misidenti_2cb8ae",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_air_france_misidenti_2cb8ae",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942_radar_angel_theory_2355c8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_police_inquir_0e62ce",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_police_inquir_0e62ce",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_police_inquir_0e62ce",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_police_inquir_0e62ce",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "to": "Bremen_20b942_radar_angel_theory_2355c8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_sparse_sighti_0f44f5",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "to": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_flight_disruption_sa_0a30bd",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_flight_disruption_sa_0a30bd",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_flight_disruption_sa_0a30bd",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_model_aircraft_theor_86c264",
+        "to": "Bremen_20b942_radar_angel_theory_2355c8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_model_aircraft_theor_86c264",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_model_aircraft_theor_86c264",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_model_aircraft_theor_86c264",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_bremen_airport_incid_880ee3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_model_aircraft_theor_86c264",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_radar_angel_theory_2355c8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_bremen_radar_evidenc_a2ac3b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_search_helicopter_si_e46e5d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bremen_20b942_unidentified_not_ali_becdd7",
+        "to": "Bremen_20b942_bremen_witness_repor_fe69ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030",
+        "to": "Saxony_caf030_chemnitz_two_sightin_0fe8e2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030",
+        "to": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_aue_aircraft_trail_c7be0a",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_gdr_ufo_record_gaps_3ba193",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_media_amplified_ufo_b35404",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_projected_light_ufo_2972b6",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_chemnitz_two_sightin_0fe8e2",
+        "to": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_chemnitz_two_sightin_0fe8e2",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_contrail_perspective_237f7b",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_dresden_following_li_b0fbdd",
+        "to": "Saxony_caf030_projected_light_ufo_2972b6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_dresden_following_li_b0fbdd",
+        "to": "Saxony_caf030_unresolved_not_extra_6455d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_dresden_following_li_b0fbdd",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_plauen_abduction_cla_a0cf01",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_saxony_sighting_geog_2a51db",
+        "to": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_saxony_sighting_geog_2a51db",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_unresolved_not_extra_6455d3",
+        "to": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_unresolved_not_extra_6455d3",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_witness_perception_s_91a189",
+        "to": "Saxony_caf030_jupiter_ufo_misident_912b94",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Saxony_caf030_witness_perception_s_91a189",
+        "to": "Saxony_caf030",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_stuttgart_airport_ca_d32ab5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_friesenheim_passive_e4b02d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_stuttgart_sky_lanter_42eba0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_unresolved_case_reco_09c950",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_waiblingen_led_kite_73435c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2",
+        "to": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+        "to": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+        "to": "Baden-Wurttemberg_dc11f2_unresolved_case_reco_09c950",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+        "to": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_gep_archive_limits_dace77",
+        "to": "Baden-Wurttemberg_dc11f2_stuttgart_sky_lanter_42eba0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_2024_sighting_surge_4e9950",
+        "to": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_2024_sighting_surge_4e9950",
+        "to": "Baden-Wurttemberg_dc11f2_stuttgart_sky_lanter_42eba0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+        "to": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+        "to": "Baden-Wurttemberg_dc11f2_waiblingen_led_kite_73435c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_media_mystery_cycle_53ea58",
+        "to": "Baden-Wurttemberg_dc11f2_starlink_sighting_wa_780c46",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_waiblingen_led_kite_73435c",
+        "to": "Baden-Wurttemberg_dc11f2_professional_witness_1441a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_official_record_gaps_54d358",
+        "to": "Baden-Wurttemberg_dc11f2_stuttgart_airport_ca_d32ab5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Baden-Wurttemberg_dc11f2_official_record_gaps_54d358",
+        "to": "Baden-Wurttemberg_dc11f2",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
