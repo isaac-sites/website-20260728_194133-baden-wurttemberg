@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bremen-20b942-index/
 description: Focused pages that expand on The Airport Mystery That Defined Bremen's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bremen_20b942
 parent_title: The Airport Mystery That Defined Bremen's...

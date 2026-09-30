@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /baden-wurttemberg-dc11f2-index/
 description: Focused pages that expand on Which Baden Wurttemberg UFO Cases Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Baden-Wurttemberg_dc11f2
 parent_title: Which Baden Wurttemberg UFO Cases Still...

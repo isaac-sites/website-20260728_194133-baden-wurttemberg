@@ -8,6 +8,7 @@ permalink: /north-rhine-westphal-f5bdd9-index/
 description: Focused pages that expand on Why North Rhine Westphalia Keeps Seeing
   UFOs.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: North_Rhine-Westphal_f5bdd9
 parent_title: Why North Rhine Westphalia Keeps Seeing UFOs
