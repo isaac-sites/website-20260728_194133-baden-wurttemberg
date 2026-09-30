@@ -232,6 +232,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-25 19:08:43'
+last_modified_at: '2026-07-25 19:08:43'
 sibling_links:
 - basename: Thuringia_f28d08
   title: Thuringia UFOs

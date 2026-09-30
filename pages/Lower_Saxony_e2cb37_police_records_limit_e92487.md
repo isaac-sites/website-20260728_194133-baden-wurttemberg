@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 02:43:11'
+last_modified_at: '2026-07-26 02:43:11'
 parent_title: Lower Saxony
 parent_permalink: /when-strange-lights-crossed-lower/
 parent_nav_short_title: Lower Saxony

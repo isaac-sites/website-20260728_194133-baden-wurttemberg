@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 01:38:13'
+last_modified_at: '2026-07-26 01:38:13'
 parent_title: UFOs in Mecklenburg Vorpommern
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: UFOs in Mecklenburg Vorpommern

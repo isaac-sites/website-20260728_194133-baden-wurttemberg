@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saxony-caf030-index/
 description: Focused pages that expand on Why Saxony's UFO History Remains So....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saxony_caf030
 parent_title: Why Saxony's UFO History Remains So...

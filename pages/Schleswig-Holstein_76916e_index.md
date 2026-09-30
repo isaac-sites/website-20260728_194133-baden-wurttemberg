@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /schleswig-holstein-76916e-index/
 description: Focused pages that expand on What Is Really Seen Over Schleswig Holstein?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Schleswig-Holstein_76916e
 parent_title: What Is Really Seen Over Schleswig Holstein?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /berlin-062b06-index/
 description: Focused pages that expand on Why Berlin's UFO History Lives in Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Berlin_062b06
 parent_title: Why Berlin's UFO History Lives in Archives

@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 00:22:59'
+last_modified_at: '2026-07-26 00:22:59'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-story-is-mostly-about/
 parent_nav_short_title: Hesse UFOs
