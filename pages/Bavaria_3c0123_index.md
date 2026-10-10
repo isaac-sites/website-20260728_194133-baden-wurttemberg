@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bavaria-3c0123-index/
 description: Focused pages that expand on Bavaria's UFO Stories Under the Evidence....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bavaria_3c0123
 parent_title: Bavaria's UFO Stories Under the Evidence...

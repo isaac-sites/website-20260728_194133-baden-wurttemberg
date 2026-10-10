@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 06:13:06'
+last_modified_at: '2026-07-26 06:13:06'
 parent_title: Saxony UFOs
 parent_permalink: /why-saxonys-ufo-history-remains-so/
 parent_nav_short_title: Saxony UFOs

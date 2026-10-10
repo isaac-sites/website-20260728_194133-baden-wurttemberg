@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-25 21:24:06'
+last_modified_at: '2026-07-25 21:24:06'
 parent_title: Brandenburg UFOs
 parent_permalink: /why-brandenburgs-ufo-record-remains-so/
 parent_nav_short_title: Brandenburg UFOs

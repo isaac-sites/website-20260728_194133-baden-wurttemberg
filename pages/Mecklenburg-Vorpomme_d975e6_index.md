@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mecklenburg-vorpomme-d975e6-index/
 description: Focused pages that expand on Mecklenburg Vorpommern.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mecklenburg-Vorpomme_d975e6
 parent_title: Mecklenburg Vorpommern

@@ -224,6 +224,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-26 09:56:52'
+last_modified_at: '2026-07-26 09:56:52'
 parent_title: Thuringia
 parent_permalink: /how-strong-are-thuringias-best-ufo-cases/
 parent_nav_short_title: Thuringia

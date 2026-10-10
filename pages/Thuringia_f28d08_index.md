@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /thuringia-f28d08-index/
 description: Focused pages that expand on How Strong Are Thuringia's Best UFO Cases?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Thuringia_f28d08
 parent_title: How Strong Are Thuringia's Best UFO Cases?

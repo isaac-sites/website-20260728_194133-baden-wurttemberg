@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /brandenburg-a1d94c-index/
 description: Focused pages that expand on Why Brandenburg's UFO Record Remains So....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Brandenburg_a1d94c
 parent_title: Why Brandenburg's UFO Record Remains So...

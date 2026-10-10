@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hesse-19bb21-index/
 description: Focused pages that expand on Why Hesse's UFO Story Is Mostly About....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hesse_19bb21
 parent_title: Why Hesse's UFO Story Is Mostly About...

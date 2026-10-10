@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hamburg-155277-index/
 description: Focused pages that expand on Why Hamburg's UFO Mysteries Usually Fade.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hamburg_155277
 parent_title: Why Hamburg's UFO Mysteries Usually Fade
