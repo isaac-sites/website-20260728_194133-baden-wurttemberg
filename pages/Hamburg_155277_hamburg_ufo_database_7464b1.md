@@ -439,7 +439,7 @@ A similar mechanism appears in recent reports. In 2020 the eight Hamburg entries
 
 This matters because a genuine flap would ideally display more than an increase in submissions. Investigators would look for repeated unusual characteristics across independent reports: similar shapes, movements, durations, directions, physical effects or sensor detections that could not be attributed to a shared ordinary source. Hamburg’s peaks instead break apart into the changing objects of their period.
 
-The database’s broader design supports that interpretation. Its fields distinguish night lights, daylight discs and close encounters, while investigation results record specific conventional causes and degrees of verification. German researchers describe the system as a tool for collecting working hypotheses, conducting follow-up and comparing unidentified cases with known stimuli, rather than as a census of alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
+The database’s broader design supports that interpretation. Its fields distinguish night lights, daylight discs and close encounters, while investigation results record specific conventional causes and degrees of verification. German researchers describe the system as a tool for collecting working hypotheses, conducting follow-up and comparing unidentified cases with known stimuli, rather than as a census of alien craft.<span class="citation-link-wrap">[ufo-forschung.de]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
 
 
 
@@ -898,7 +898,7 @@ The databases remain valuable because they preserve this history rather than fil
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 7.<a id="endnote-7"></a>
    Source: arxiv.org  

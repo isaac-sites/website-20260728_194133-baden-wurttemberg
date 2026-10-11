@@ -388,7 +388,7 @@ Investigators do not have to assume that a sincere witness is unreliable. They s
 
 Apparent speed is particularly fragile. Without knowing distance, investigators cannot calculate true speed from visual movement alone. A nearby insect crossing a camera’s field of view, an aeroplane several kilometres away and a satellite hundreds of kilometres above Earth can all appear to move rapidly on a screen. Claims of extreme acceleration require either a known range, observations from separated locations, radar-quality tracking or another independent measurement.
 
-This is why good interview practice avoids leading questions. GEP’s published research principles warn that investigators should gather information neutrally, obtain informed consent and distinguish collected material from later interpretation. They also treat deliberate alteration or invention of facts as research misconduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">5) Betrug in der wissenschaftlichen Forschung umfasst bewusste Erfindungen oder Verfälschungen von Fakten, Forschungsdaten oder Untersuc...</span></span></span>
+This is why good interview practice avoids leading questions. GEP’s published research principles warn that investigators should gather information neutrally, obtain informed consent and distinguish collected material from later interpretation. They also treat deliberate alteration or invention of facts as research misconduct.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">5) Betrug in der wissenschaftlichen Forschung umfasst bewusste Erfindungen oder Verfälschungen von Fakten, Forschungsdaten oder Untersuc...</span></span></span>
 
 ## Checking aircraft, satellites and astronomy
 
@@ -894,7 +894,7 @@ The fairest conclusion is therefore often narrower than either believers or scep
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(5) Betrug in der wissenschaftlichen Forschung umfasst bewusste Erfindungen oder Verfälschungen von Fakten, Forschungsdaten oder Untersuc...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -992,7 +992,7 @@ The fairest conclusion is therefore often narrower than either believers or scep
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 27.<a id="endnote-27"></a>
    Source: polizei.brandenburg.de  

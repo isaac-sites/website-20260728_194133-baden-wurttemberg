@@ -412,13 +412,13 @@ There is therefore no clear historical “flap” unique to Baden-Württemberg t
 
 ## The Stuttgart airspace case
 
-One of the state’s most important episodes occurred near Stuttgart Airport in January 2009 because the report involved air-traffic control and a pilot rather than only observers on the ground. Contemporary coverage said an unidentified lighted object was seen near Stuttgart, apparently moving north-east towards Welzheim. A pilot in another aircraft reportedly observed its lights, while aviation authorities attempted to determine what it was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stuttgarter-nachrichten.de">[Stuttgarter Nachrichten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
+One of the state’s most important episodes occurred near Stuttgart Airport in January 2009 because the report involved air-traffic control and a pilot rather than only observers on the ground. Contemporary coverage said an unidentified lighted object was seen near Stuttgart, apparently moving north-east towards Welzheim. A pilot in another aircraft reportedly observed its lights, while aviation authorities attempted to determine what it was.<span class="citation-link-wrap">[Stuttgarter Nachrichten]<span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
 
 The aviation connection gives the episode greater weight than a distant point of light reported by one person. Pilots and controllers are familiar with aircraft movement, navigation lights and the operational importance of an unidentified object near controlled airspace. Their involvement also demonstrates why authorities may respond seriously without adopting any claim about extraterrestrial origins: an unknown aircraft, balloon or unmanned vehicle can be a safety issue regardless of its ultimate identity.
 
 Nevertheless, the published evidence is too limited for a strong conclusion. There is no publicly available radar plot, cockpit recording, photograph or detailed trajectory from which an independent analyst could calculate speed, altitude or distance. Reports that an object moved in a particular direction do not reveal whether it was a nearby small object or a distant light affected by perspective. The case is best described as an unresolved aviation observation in the public record, not as confirmation of exceptional performance.
 
-Its context also advises caution. Only months earlier, clusters of lights over Stuttgart’s Bad Cannstatt district had been traced to illuminated paper lanterns. Such lanterns can drift silently, change apparent formation and vanish when their flames fail, creating a surprisingly convincing impression of controlled flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stuttgarter-nachrichten.de">[Stuttgarter Nachrichten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
+Its context also advises caution. Only months earlier, clusters of lights over Stuttgart’s Bad Cannstatt district had been traced to illuminated paper lanterns. Such lanterns can drift silently, change apparent formation and vanish when their flames fail, creating a surprisingly convincing impression of controlled flight.<span class="citation-link-wrap">[Stuttgarter Nachrichten]<span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
 
 
 
@@ -438,7 +438,7 @@ The case also illustrates the importance of investigation beyond the initial hea
 
 The most technically interesting recent case occurred at Friesenheim-Oberweier, near the French border, at about 5.34 am on 20 September 2024. According to the GEP case record, a federal police officer saw a bright, wave-like apparition for no more than several seconds and heard a noise compared with a metal chain being pulled. A privately operated [passive-radar]({{ 'passive-radar/' | relative_url }}) system reportedly registered a signal at approximately the same time. The case file and associated data were later deposited in the Zenodo research repository.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/14949908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span>
 
-Passive radar does not transmit its own pulse. It looks for reflections or disturbances in radio signals already being broadcast by other sources. In principle, this can provide an independent instrumental indication that something occupied the airspace rather than the witness merely seeing an internal visual effect. The GEP presented the temporal match as an important first for its private research programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+Passive radar does not transmit its own pulse. It looks for reflections or disturbances in radio signals already being broadcast by other sources. In principle, this can provide an independent instrumental indication that something occupied the airspace rather than the witness merely seeing an internal visual effect. The GEP presented the temporal match as an important first for its private research programme.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That description should not be inflated into a claim that radar proved an extraordinary vehicle. A signal must be associated securely with the visual observation, and analysts need to exclude aircraft, interference, processing artefacts and unrelated targets. The publicly summarised case does not provide a fully reconstructed three-dimensional flight path or a set of independently calibrated sensors establishing exceptional acceleration. The investigation was described as unresolved or on hold rather than completed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcheck.com/news/passive-radar-signal-confirms-visual-ufo-sighting-in-germany/2976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">Open source on uapcheck.com.</span></span></span>
 
@@ -496,7 +496,7 @@ The state’s reports fall into three practical categories.
 
 **Weak or insufficient cases** cannot be solved because essential information is missing. A single light photographed without location, exact time, direction, raw file or duration may remain officially “unidentified”, but this is an evidential gap rather than a positive anomaly.
 
-**[Unresolved cases]({{ 'unresolved-cases-25749b/' | relative_url }}) with useful evidence** preserve more than a bare recollection. The 2009 Stuttgart airspace report involved aviation witnesses, while the 2024 Friesenheim-Oberweier case added a possible instrument correlation. Both merit attention, but neither has publicly demonstrated extraordinary speed, controlled acceleration or a verified physical craft of unknown origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stuttgarter-nachrichten.de">[Stuttgarter Nachrichten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
+**[Unresolved cases]({{ 'unresolved-cases-25749b/' | relative_url }}) with useful evidence** preserve more than a bare recollection. The 2009 Stuttgart airspace report involved aviation witnesses, while the 2024 Friesenheim-Oberweier case added a possible instrument correlation. Both merit attention, but neither has publicly demonstrated extraordinary speed, controlled acceleration or a verified physical craft of unknown origin.<span class="citation-link-wrap">[Stuttgarter Nachrichten]<span class="citation-popover" role="note"><span class="citation-popover-source">stuttgarter-nachrichten.de</span><span class="citation-popover-title">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span><span class="citation-popover-snippet">Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem</span></span></span>
 
 A persuasive future case would need several forms of mutually consistent evidence: original photographs or video, exact observation geometry, independent witnesses at separated locations, aircraft and weather data, calibrated sensor records and a transparent analysis excluding mundane causes. Scientific proposals for studying unusual aerial events increasingly emphasise this combination of cameras, radar, radio receivers, acoustic instruments and environmental sensors because one data stream alone is easily misread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
@@ -952,7 +952,7 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 8.<a id="endnote-8"></a>
    Source: stuttgarter-nachrichten.de  
    Title: Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem  
-   Link:<a href="https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html</a>  
+   Link:https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html  
 
 9.<a id="endnote-9"></a>
    Source: swp.de  
@@ -969,7 +969,7 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 13.<a id="endnote-13"></a>
    Source: arxiv.org  
@@ -994,78 +994,78 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein</a>  
+   Link:https://www.ufo-forschung.de/verein  
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: Danny Ammon – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/ammon" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/ammon</a>  
+   Link:https://www.ufo-forschung.de/author/ammon  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung</a>  
+   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
    Title: Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/category/kurz-notiert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/kurz-notiert</a>  
+   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/tag/jahresbericht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/jahresbericht</a>  
+   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:<a href="https://www.ufo-forschung.de/forschung/euroufo-barometer" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/euroufo-barometer</a>  
+   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 28.<a id="endnote-28"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/journal-fuer-ufo-forschung-nr-276-erschienen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/journal-fuer-ufo-forschung-nr-276-erschienen</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/journal-fuer-ufo-forschung-nr-276-erschienen  
 
 29.<a id="endnote-29"></a>
    Source: swr.de  
    Title: Flughafen Stuttgart: Augenzeugin erzählt von ungeplanter Landung  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/landung-flughafen-stuttgart-lufthansa-augenzeugin-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/landung-flughafen-stuttgart-lufthansa-augenzeugin-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/landung-flughafen-stuttgart-lufthansa-augenzeugin-100.html  
 
 30.<a id="endnote-30"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 31.<a id="endnote-31"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
    Title: 17 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen  
 
 34.<a id="endnote-34"></a>
    Source: bundestag.de  
@@ -1121,7 +1121,7 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 46.<a id="endnote-46"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 47.<a id="endnote-47"></a>
    Source: stuttgarter-zeitung.de  
@@ -1156,7 +1156,7 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 54.<a id="endnote-54"></a>
    Source: baden-wuerttemberg.de  
-   Link:<a href="https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/praeventionsfilm-ueber-falsche-polizeibeamte-1/?cHash=b80830dd89b5b61c1c11e7da1784ece6&amp;type=98" target="_blank" rel="noopener noreferrer nofollow">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/praeventionsfilm-ueber-falsche-polizeibeamte-1/?cHash=b80830dd89b5b61c1c11e7da1784ece6&amp;type=98</a>  
+   Link:https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/praeventionsfilm-ueber-falsche-polizeibeamte-1/?cHash=b80830dd89b5b61c1c11e7da1784ece6&amp;type=98  
 
 55.<a id="endnote-55"></a>
    Source: mwk.baden-wuerttemberg.de  

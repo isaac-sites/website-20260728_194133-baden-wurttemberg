@@ -371,7 +371,7 @@ The previous evening, another Chemnitz witness had reported a round object that 
 
 The two cases show why the word “unresolved” needs care. A vivid report can remain open because it is extraordinary, but it can also remain open because it is incomplete. By contrast, a seemingly spectacular hour-long display may prove relatively easy to explain once its direction, duration and astronomical setting are known.
 
-Chemnitz continues to generate reports through civilian databases. In September 2022, the Gesellschaft zur Erforschung des UFO-Phänomens, or GEP, recorded a balcony witness who saw a green light apparently making rapid movements in different directions. The organisation explicitly cautioned that such newly received entries were reports awaiting investigation, not confirmed anomalies. That procedural warning matters: an intake list records what a witness perceived, whereas a completed case assessment asks what physical object or optical effect could have produced that perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">22 neue ufo meldungen im september 2022</span><span class="citation-popover-snippet">UFO Forschung22 neue UFO-Meldungen im September 2022 – Gesellschaft zur Erforschung des UFO-Phänomens e.V...</span><span class="citation-popover-meta">Published: September 2022</span></span></span>
+Chemnitz continues to generate reports through civilian databases. In September 2022, the Gesellschaft zur Erforschung des UFO-Phänomens, or GEP, recorded a balcony witness who saw a green light apparently making rapid movements in different directions. The organisation explicitly cautioned that such newly received entries were reports awaiting investigation, not confirmed anomalies. That procedural warning matters: an intake list records what a witness perceived, whereas a completed case assessment asks what physical object or optical effect could have produced that perception.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">22 neue ufo meldungen im september 2022</span><span class="citation-popover-snippet">UFO Forschung22 neue UFO-Meldungen im September 2022 – Gesellschaft zur Erforschung des UFO-Phänomens e.V...</span><span class="citation-popover-meta">Published: September 2022</span></span></span>
 
 
 
@@ -853,7 +853,7 @@ This does not prove that every Saxon report has a mundane explanation. Some rema
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Forschung22 neue UFO-Meldungen im September 2022 – Gesellschaft zur Erforschung des UFO-Phänomens e.V...</p></details>
    Published: September 2022  
 

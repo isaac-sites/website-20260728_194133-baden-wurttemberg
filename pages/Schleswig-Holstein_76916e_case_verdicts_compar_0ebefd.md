@@ -920,7 +920,7 @@ Applied consistently, those labels make Schleswig-Holstein’s UFO history less 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: ufo klassifikationen  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>98–102) und 20130623 A (JUFOF 213 / 3-2014, S.... * CE 4.1: keine konkreten Entführungserinnerungen, Deutung anhand von Koinzidenzphänom...</p></details>
 
 7.<a id="endnote-7"></a>
@@ -984,7 +984,7 @@ Applied consistently, those labels make Schleswig-Holstein’s UFO history less 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:<a href="https://www.ufo-forschung.de/forschung/euroufo-barometer" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/euroufo-barometer</a>  
+   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
    Published: December 26, 2025  
 
 19.<a id="endnote-19"></a>
@@ -1024,7 +1024,7 @@ Applied consistently, those labels make Schleswig-Holstein’s UFO history less 
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
    Published: May 5, 2023  
 
 26.<a id="endnote-26"></a>
@@ -1056,7 +1056,7 @@ Applied consistently, those labels make Schleswig-Holstein’s UFO history less 
 31.<a id="endnote-31"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
@@ -1070,7 +1070,7 @@ Applied consistently, those labels make Schleswig-Holstein’s UFO history less 
 34.<a id="endnote-34"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 35.<a id="endnote-35"></a>
    Source: ufo-forschung.de  

@@ -355,7 +355,7 @@ GEP has collected reports since 1972. Its openly downloadable dataset includes f
 
 For research into Baden-Württemberg, this structure is more useful than a folder of undigested newspaper cuttings. A reader can distinguish a report made in Stuttgart from one in Radolfzell, see whether it arrived promptly or years after the event, and check whether investigators associated it with a balloon, aircraft, planet, satellite, light effect or some other ordinary source. The record also preserves cases that have not yet reached a conclusion, making it possible to separate “currently unresolved” from “investigated and judged genuinely anomalous”.
 
-The archive records the evolution of reporting technology as well as the sightings themselves. Older files were commonly built from letters, telephone interviews and paper questionnaires. Recent entries may begin with an online database form, an email, a social-media message, photographs or mobile-phone video. GEP’s published monthly case lists show that these are initial submissions: investigation, discussion and final classification can occur later, sometimes followed by a fuller account in its specialist journal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">19 neue ufo meldungen im juni 2022</span><span class="citation-popover-snippet">Falldatenbank, 28.05.2022)... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... N...</span></span></span>
+The archive records the evolution of reporting technology as well as the sightings themselves. Older files were commonly built from letters, telephone interviews and paper questionnaires. Recent entries may begin with an online database form, an email, a social-media message, photographs or mobile-phone video. GEP’s published monthly case lists show that these are initial submissions: investigation, discussion and final classification can occur later, sometimes followed by a fuller account in its specialist journal.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">19 neue ufo meldungen im juni 2022</span><span class="citation-popover-snippet">Falldatenbank, 28.05.2022)... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... N...</span></span></span>
 
 That distinction is important when reading recent Baden-Württemberg entries. For example, the June 2025 dataset records a May report from Stuttgart concerning a bright, reflective object filmed in daylight. GEP listed a foil balloon as the favoured explanation. An April report from Radolfzell, by contrast, initially contained little more than a photograph of a bright light and remained too sparsely described for an immediate conclusion. These entries do not carry equal evidential weight merely because both appear in the same database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235/files/UFO-UAP-Falldaten_GEP_1972-2025.06.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2025.06.csv</span><span class="citation-popover-snippet">zenodo.org...</span></span></span>
 
@@ -365,7 +365,7 @@ That distinction is important when reading recent Baden-Württemberg entries. Fo
 
 ## How reports enter the collection
 
-The archive begins with self-selection. Someone must notice an object or light, regard it as sufficiently unusual, learn that GEP exists and decide to make contact. The organisation may then request a structured questionnaire, original photographs or video, directional information, weather details, witness accounts and other material. GEP researchers describe their approach as case-based citizen science, using witness interviews, document checks, image analysis and comparisons with astronomical, aviation and technological sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
+The archive begins with self-selection. Someone must notice an object or light, regard it as sufficiently unusual, learn that GEP exists and decide to make contact. The organisation may then request a structured questionnaire, original photographs or video, directional information, weather details, witness accounts and other material. GEP researchers describe their approach as case-based citizen science, using witness interviews, document checks, image analysis and comparisons with astronomical, aviation and technological sources.<span class="citation-link-wrap">[ufo-forschung.de]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
 
 Reports can also arrive after referral by another body. GEP material notes links with organisations including German air-navigation services and the University of Würzburg’s interdisciplinary extraterrestrial-research centre. Such referrals can strengthen the archive’s practical role as a national contact point, but they do not turn it into an official reporting system. Police forces, airports, military units, newspapers, other private UFO groups and individual witnesses may retain separate information that never enters the GEP collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Gesellschaft_zur_Erforschung_des_UFO-Ph%C3%A4nomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gesellschaft zur Erforschung des UFO-Phänomens</span><span class="citation-popover-snippet">Gesellschaft zur Erforschung des UFO-Phänomens</span></span></span>
 
@@ -862,26 +862,26 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: 19 neue ufo meldungen im juni 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(Falldatenbank, 28.05.2022)... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... N...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
    Title: 15 neue ufo meldungen im april 2023  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... Nach erfolgter Untersuchung, Disk...</p></details>
    Published: april 2023  
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemeldet über Fragebogen am 22.01.2024... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 8.<a id="endnote-8"></a>
    Source: researchgate.net  
@@ -889,7 +889,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/ueber-uns/satzung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ueber-uns/satzung</a>  
+   Link:https://www.ufo-forschung.de/ueber-uns/satzung  
 
 10.<a id="endnote-10"></a>
    Source: Wikipedia  
@@ -898,7 +898,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 11.<a id="endnote-11"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 12.<a id="endnote-12"></a>
    Source: science.gc.ca  
@@ -917,7 +917,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 15.<a id="endnote-15"></a>
    Source: swr.de  
    Title: Lichterkette am Nachthimmel  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html  
 
 16.<a id="endnote-16"></a>
    Source: nature.com  
@@ -934,12 +934,12 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/tag/jahresbericht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/jahresbericht</a>  
+   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 21.<a id="endnote-21"></a>
    Source: swr.de  
@@ -959,48 +959,48 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 24.<a id="endnote-24"></a>
    Source: swr.de  
    Title: Polarlichter über Deutschland: Spektakel heute Nacht gesichtet  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-gesichtet-himmel-ueber-bw-donnerstag-10-10-2024-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-gesichtet-himmel-ueber-bw-donnerstag-10-10-2024-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-gesichtet-himmel-ueber-bw-donnerstag-10-10-2024-100.html  
 
 25.<a id="endnote-25"></a>
    Source: swr.de  
    Title: Newsticker BW: Feuerball über BW war Satellit, Weindorf startet  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html  
 
 26.<a id="endnote-26"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: [Starlink](&#123;&#123; 'starlink/' | relative_url &#125;&#125;)-Satellit von BW aus zu sehen  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 
 27.<a id="endnote-27"></a>
    Source: swr.de  
    Title: Nach Höhepunkt deutlich weniger Polarlichter am Himmel über BW  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html  
 
 28.<a id="endnote-28"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
 
 29.<a id="endnote-29"></a>
    Source: swr.de  
    Title: Sesshafter Wolf: Weiterer Nachweis im Süden von Deutschland  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/weiterer-wolf-in-bw-nachgewiesen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/weiterer-wolf-in-bw-nachgewiesen-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weiterer-wolf-in-bw-nachgewiesen-100.html  
 
 30.<a id="endnote-30"></a>
    Source: swr.de  
    Title: Behörden sicher: Wieder Wolf im Kreis Göppingen gesichtet  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wolf-gesichtet-bad-ditzenbach-sichtung-kreis-goeppingen-oberkochen-ost-alb-kreis-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wolf-gesichtet-bad-ditzenbach-sichtung-kreis-goeppingen-oberkochen-ost-alb-kreis-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wolf-gesichtet-bad-ditzenbach-sichtung-kreis-goeppingen-oberkochen-ost-alb-kreis-100.html  
 
 31.<a id="endnote-31"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im november 2023  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-november-2023</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-november-2023  
    Published: november 2023  
 
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 33.<a id="endnote-33"></a>
@@ -1016,7 +1016,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 35.<a id="endnote-35"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018  
 
 36.<a id="endnote-36"></a>
    Source: bundestag.de  
@@ -1036,7 +1036,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 39.<a id="endnote-39"></a>
    Source: ufo-forschung.de  
    Title: 5 neue UFO Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/5-neue-ufo-meldungen-7" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/5-neue-ufo-meldungen-7</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/5-neue-ufo-meldungen-7  
 
 40.<a id="endnote-40"></a>
    Source: bundestag.de  
@@ -1046,22 +1046,22 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 41.<a id="endnote-41"></a>
    Source: ufo-forschung.de  
    Title: 12 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/12-neue-ufo-meldungen-2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/12-neue-ufo-meldungen-2</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/12-neue-ufo-meldungen-2  
 
 42.<a id="endnote-42"></a>
    Source: ufo-forschung.de  
    Title: 17 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen  
 
 43.<a id="endnote-43"></a>
    Source: ufo-forschung.de  
    Title: 15 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen  
 
 44.<a id="endnote-44"></a>
    Source: ufo-forschung.de  
    Title: 30 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 45.<a id="endnote-45"></a>
    Source: bundestag.de  
@@ -1080,7 +1080,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 48.<a id="endnote-48"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/category/ufo-faelle/ufo-meldungen/page/40" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/ufo-faelle/ufo-meldungen/page/40</a>  
+   Link:https://www.ufo-forschung.de/category/ufo-faelle/ufo-meldungen/page/40  
 
 49.<a id="endnote-49"></a>
    Source: bundestag.de  
@@ -1115,7 +1115,7 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 56.<a id="endnote-56"></a>
    Source: ufo-forschung.de  
    Title: monatsbericht september 2025 der gep veroeffentlicht  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht  
    Published: september 2025  
 
 57.<a id="endnote-57"></a>

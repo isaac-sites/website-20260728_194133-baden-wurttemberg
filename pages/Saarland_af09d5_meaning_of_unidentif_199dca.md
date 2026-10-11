@@ -358,7 +358,7 @@ A useful case label should answer two separate questions:
 
 An “unidentified” result answers only the first question. It does not, by itself, answer the second. A distant light seen for several seconds may remain unidentified because its direction, elevation and exact time were never recorded. That report is technically unresolved, but it contains much less evidential value than a case supported by several independent [witnesses]({{ 'witnesses-b354a2/' | relative_url }}), calibrated images and reliable measurements showing genuinely unusual movement.
 
-The German Society for the Study of the UFO Phenomenon, or GEP, makes a comparable distinction in its working classifications. Reports with insufficient data, unreliable testimony or inadequate observation may be placed among exceptions rather than treated as irreducible UFO cases. GEP also defines a UFO in the stricter sense as something that remains unidentified after capable investigators have examined the available statements and evidence—not merely something that puzzled the original observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Josef Allen Hynek erdachte eine heute international gebräuchliche Klassifikation, nach der die gemeldeten Sichtungen vor der Untersuchung...</span></span></span>
+The German Society for the Study of the UFO Phenomenon, or GEP, makes a comparable distinction in its working classifications. Reports with insufficient data, unreliable testimony or inadequate observation may be placed among exceptions rather than treated as irreducible UFO cases. GEP also defines a UFO in the stricter sense as something that remains unidentified after capable investigators have examined the available statements and evidence—not merely something that puzzled the original observer.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Josef Allen Hynek erdachte eine heute international gebräuchliche Klassifikation, nach der die gemeldeten Sichtungen vor der Untersuchung...</span></span></span>
 
 France’s official GEIPAN system provides an especially clear public model. It separates cases that lack enough information for identification from cases that remain unidentified after investigation. Its category C means that identification failed because data or information were missing; category D is reserved for a phenomenon not identified after investigation. Although GEIPAN does not govern Saarland cases, its distinction shows why a single word such as “unresolved” can conceal two very different outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">onducted if new information...</span></span></span>
 
@@ -460,7 +460,7 @@ The most informative public record would not place every open Saarland report un
 
 Such wording protects both scepticism and open inquiry. It prevents a poorly documented sighting from being promoted as an unexplained technological event, but it also avoids pretending that every open report has been debunked. “Insufficient information” is not an explanation; it is an honest statement about the limit of the file.
 
-GEP’s good-practice guidance supports keeping detailed case records, including the reporting date, event time and location, witnesses, classification, investigators’ assessments and related communications. The value of that approach is not administrative neatness. It allows later reviewers to see whether a case remained open because evidence resisted explanation or because investigators never received what they needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Die Akte soll den Namen des Melders, Datum der Meldung, Datum, Uhrzeit und Ort der gemeldeten Erfahrung, mögliche Zeugen, Fallklassifikat...</span></span></span>
+GEP’s good-practice guidance supports keeping detailed case records, including the reporting date, event time and location, witnesses, classification, investigators’ assessments and related communications. The value of that approach is not administrative neatness. It allows later reviewers to see whether a case remained open because evidence resisted explanation or because investigators never received what they needed.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Die Akte soll den Namen des Melders, Datum der Meldung, Datum, Uhrzeit und Ort der gemeldeten Erfahrung, mögliche Zeugen, Fallklassifikat...</span></span></span>
 
 
 
@@ -896,12 +896,12 @@ The most accurate reading of Saarland’s record is less dramatic but more usefu
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Josef Allen Hynek erdachte eine heute international gebräuchliche Klassifikation, nach der die gemeldeten Sichtungen vor der Untersuchung...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Akte soll den Namen des Melders, Datum der Meldung, Datum, Uhrzeit und Ort der gemeldeten Erfahrung, mögliche Zeugen, Fallklassifikat...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -935,7 +935,7 @@ The most accurate reading of Saarland’s record is less dramatic but more usefu
 
 10.<a id="endnote-10"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung</a>  
+   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 11.<a id="endnote-11"></a>
    Source: sr.de  

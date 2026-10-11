@@ -881,12 +881,12 @@ Germany’s reporting boom from 2006 to 2009 was therefore a real UFO flap in th
 11.<a id="endnote-11"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein</a>  
+   Link:https://www.ufo-forschung.de/verein  
 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
@@ -901,11 +901,11 @@ Germany’s reporting boom from 2006 to 2009 was therefore a real UFO flap in th
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/tag/jahresbericht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/jahresbericht</a>  
+   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  

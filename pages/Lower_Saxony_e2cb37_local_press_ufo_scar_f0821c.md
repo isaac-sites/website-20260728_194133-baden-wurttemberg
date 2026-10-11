@@ -937,7 +937,7 @@ The enduring lesson is not that local newspapers invented every scare. Meteors, 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
    Title: Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/category/kurz-notiert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/kurz-notiert</a>  
+   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
@@ -952,7 +952,7 @@ The enduring lesson is not that local newspapers invented every scare. Meteors, 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  

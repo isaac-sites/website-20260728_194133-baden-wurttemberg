@@ -382,13 +382,13 @@ A witness can describe all these effects accurately while still misjudging what 
 
 Satellite traffic has become one of the most important explanations for modern sightings in Baden-Württemberg. Newly launched [Starlink]({{ 'starlink/' | relative_url }}) satellites are especially conspicuous because they initially travel in closely spaced groups. To an unprepared observer, the result resembles a silent procession or “string of pearls” crossing the sky with remarkable regularity.
 
-Such a formation was widely visible over Baden-Württemberg in 2023, when around 20 lights were reported moving together. The lights were satellites reflecting sunlight rather than objects producing their own illumination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Lichterkette am Nachthimmel</span><span class="citation-popover-snippet">Ein ungewöhnlicher Anblick für viele Menschen unter anderem in Baden-Württemberg: Eine Art &quot;Perlenkette&quot; aus rund 20 Lichtern zog am Frei...</span><span class="citation-popover-meta">Published: September 17, 2023</span></span></span>
+Such a formation was widely visible over Baden-Württemberg in 2023, when around 20 lights were reported moving together. The lights were satellites reflecting sunlight rather than objects producing their own illumination.<span class="citation-link-wrap">[SWR]<span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Lichterkette am Nachthimmel</span><span class="citation-popover-snippet">Ein ungewöhnlicher Anblick für viele Menschen unter anderem in Baden-Württemberg: Eine Art &quot;Perlenkette&quot; aus rund 20 Lichtern zog am Frei...</span><span class="citation-popover-meta">Published: September 17, 2023</span></span></span>
 
 The timing often adds to the mystery. Satellites are easiest to see during the hours after sunset or before sunrise, when the observer is in darkness but the spacecraft remain sunlit at high altitude. A satellite can fade abruptly when it enters the Earth’s shadow. Without that context, the disappearance may look like an object switching off, cloaking itself or accelerating out of sight.
 
 Individual satellites can also flare briefly as their orientation changes. In rural areas, where the sky is darker, even relatively faint spacecraft become noticeable. In cities, by contrast, only the brightest passes may break through the skyglow, making them appear more exceptional than they would under consistently dark conditions.
 
-Space debris produces a different spectacle. In August 2024, observers in and around Baden-Württemberg saw a bright, fragmenting fireball associated with the atmospheric re-entry of a Starlink satellite over Switzerland. Another debris event prompted numerous calls and messages after luminous trails were seen from places including the Black Forest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen</span><span class="citation-popover-snippet">In der Geschichte der Raumfahrt gab es bislang nur zwei Fälle, bei denen Menschen von Weltraumschrott getroffen wurde, eine Frau in den U...</span><span class="citation-popover-meta">Published: August 27, 2024</span></span></span>
+Space debris produces a different spectacle. In August 2024, observers in and around Baden-Württemberg saw a bright, fragmenting fireball associated with the atmospheric re-entry of a Starlink satellite over Switzerland. Another debris event prompted numerous calls and messages after luminous trails were seen from places including the Black Forest.<span class="citation-link-wrap">[SWR]<span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen</span><span class="citation-popover-snippet">In der Geschichte der Raumfahrt gab es bislang nur zwei Fälle, bei denen Menschen von Weltraumschrott getroffen wurde, eine Frau in den U...</span><span class="citation-popover-meta">Published: August 27, 2024</span></span></span>
 
 Re-entries are particularly effective UFO generators because they may last longer than ordinary meteors, break into several glowing pieces and cross a large part of the sky. Numerous [witnesses]({{ 'witnesses-afe9a0/' | relative_url }}) can therefore report the same genuine event from different towns while giving apparently conflicting descriptions of its colour, direction, height or number of components.
 
@@ -937,14 +937,14 @@ The state is consequently a productive setting for sincere UFO reports, but not 
 5.<a id="endnote-5"></a>
    Source: swr.de  
    Title: Lichterkette am Nachthimmel  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ein ungewöhnlicher Anblick für viele Menschen unter anderem in Baden-Württemberg: Eine Art &quot;Perlenkette&quot; aus rund 20 Lichtern zog am Frei...</p></details>
    Published: September 17, 2023  
 
 6.<a id="endnote-6"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>In der Geschichte der Raumfahrt gab es bislang nur zwei Fälle, bei denen Menschen von Weltraumschrott getroffen wurde, eine Frau in den U...</p></details>
    Published: August 27, 2024  
 
@@ -1044,19 +1044,19 @@ The state is consequently a productive setting for sincere UFO reports, but not 
 24.<a id="endnote-24"></a>
    Source: swr.de  
    Title: Newsticker BW: Feuerball über BW war Satellit, Weindorf startet  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html  
    Published: August 28, 2024  
 
 25.<a id="endnote-25"></a>
    Source: swr.de  
    Title: Nach Höhepunkt deutlich weniger Polarlichter am Himmel über BW  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html  
    Published: May 12, 2024  
 
 26.<a id="endnote-26"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
    Published: March 8, 2024  
 
 27.<a id="endnote-27"></a>

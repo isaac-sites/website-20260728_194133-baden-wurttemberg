@@ -910,7 +910,7 @@ North Rhine-Westphalia’s record therefore supports a modest but important conc
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung</a>  
+   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Sie ist das Ergebnis einer wachsenden kontinentalen Anstrengung, Berichte von nationalen Vereinigungen, wissenschaftlichen Gruppen und Bü...</p></details>
 
 7.<a id="endnote-7"></a>
@@ -1005,17 +1005,17 @@ North Rhine-Westphalia’s record therefore supports a modest but important conc
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
    Title: Danny Ammon – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/ammon" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/ammon</a>  
+   Link:https://www.ufo-forschung.de/author/ammon  
 
 28.<a id="endnote-28"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 29.<a id="endnote-29"></a>
    Source: ufo-forschung.de  
    Title: Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/category/kurz-notiert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/kurz-notiert</a>  
+   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 30.<a id="endnote-30"></a>
    Source: ufo-forschung.de  
@@ -1078,7 +1078,7 @@ North Rhine-Westphalia’s record therefore supports a modest but important conc
 
 42.<a id="endnote-42"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 43.<a id="endnote-43"></a>
    Source: uas-betrieb.dfs.de  
@@ -1111,22 +1111,22 @@ North Rhine-Westphalia’s record therefore supports a modest but important conc
 49.<a id="endnote-49"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 50.<a id="endnote-50"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 51.<a id="endnote-51"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 52.<a id="endnote-52"></a>
    Source: ufo-forschung.de  
    Title: 19 neue ufo meldungen im juni 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022  
 
 53.<a id="endnote-53"></a>
    Source: ufo-forschung.de  
@@ -1232,7 +1232,7 @@ North Rhine-Westphalia’s record therefore supports a modest but important conc
 
 76.<a id="endnote-76"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 77.<a id="endnote-77"></a>
    Source: ufo-forschung.de  

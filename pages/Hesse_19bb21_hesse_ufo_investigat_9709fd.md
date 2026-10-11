@@ -904,7 +904,7 @@ Most Hessian reports never reach that evidential level. They begin as brief enco
 
 10.<a id="endnote-10"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 11.<a id="endnote-11"></a>
    Source: welt.de  
@@ -957,7 +957,7 @@ Most Hessian reports never reach that evidential level. They begin as brief enco
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
    Published: March 23, 2026  
 
 22.<a id="endnote-22"></a>
@@ -993,13 +993,13 @@ Most Hessian reports never reach that evidential level. They begin as brief enco
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
    Published: February 1, 2024  
 
 28.<a id="endnote-28"></a>
    Source: ufo-forschung.de  
    Title: 19 neue ufo meldungen im juni 2022  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022  
    Published: July 1, 2022  
 
 29.<a id="endnote-29"></a>
@@ -1022,7 +1022,7 @@ Most Hessian reports never reach that evidential level. They begin as brief enco
 
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 34.<a id="endnote-34"></a>
    Source: ufo-forschung.de  
