@@ -864,7 +864,6 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
@@ -874,7 +873,6 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 7.<a id="endnote-7"></a>
    Source: come-on.de  
@@ -908,7 +906,6 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
@@ -932,15 +929,12 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  

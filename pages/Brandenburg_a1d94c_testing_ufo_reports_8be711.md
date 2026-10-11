@@ -894,7 +894,6 @@ The fairest conclusion is therefore often narrower than either believers or scep
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(5) Betrug in der wissenschaftlichen Forschung umfasst bewusste Erfindungen oder Verfälschungen von Fakten, Forschungsdaten oder Untersuc...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -992,7 +991,6 @@ The fairest conclusion is therefore often narrower than either believers or scep
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 27.<a id="endnote-27"></a>
    Source: polizei.brandenburg.de  

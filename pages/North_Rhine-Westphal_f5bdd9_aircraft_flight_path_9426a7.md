@@ -916,7 +916,6 @@ That evidential gap should not be mistaken for proof of either an extraordinary 
 13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 14.<a id="endnote-14"></a>

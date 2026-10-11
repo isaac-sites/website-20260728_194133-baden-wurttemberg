@@ -853,7 +853,6 @@ This does not prove that every Saxon report has a mundane explanation. Some rema
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Forschung22 neue UFO-Meldungen im September 2022 – Gesellschaft zur Erforschung des UFO-Phänomens e.V...</p></details>
    Published: September 2022  
 

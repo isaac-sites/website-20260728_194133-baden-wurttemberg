@@ -838,7 +838,6 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -849,7 +848,6 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungUAP Research in Germanyby D Ammon · 2023 · Cited by 3 — by the GEP as “GOOD UFO” have enough in common to be... Das Stocken...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -914,7 +912,6 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
    Published: February 25, 2025  
 
 15.<a id="endnote-15"></a>

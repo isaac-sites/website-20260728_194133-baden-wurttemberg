@@ -952,12 +952,10 @@ The appropriate label is therefore **weakly documented and unresolved**, not “
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: 12 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/12-neue-ufo-meldungen-2  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
    Title: 15 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen  
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
@@ -965,7 +963,6 @@ The appropriate label is therefore **weakly documented and unresolved**, not “
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
@@ -982,7 +979,6 @@ The appropriate label is therefore **weakly documented and unresolved**, not “
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
@@ -990,11 +986,9 @@ The appropriate label is therefore **weakly documented and unresolved**, not “
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 27.<a id="endnote-27"></a>
    Source: aaro.mil  

@@ -837,7 +837,6 @@ For Baden-Württemberg’s UFO record, the most defensible conclusion is that pi
 1.<a id="endnote-1"></a>
    Source: stuttgarter-nachrichten.de  
    Title: Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem  
-   Link:https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuttgarter NachrichtenRätselhafter Flieger: Ufo hält Flugsicherung in Atem - Stuttgart...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -979,7 +978,6 @@ For Baden-Württemberg’s UFO record, the most defensible conclusion is that pi
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 33.<a id="endnote-33"></a>
    Source: stuttgarter-zeitung.de  

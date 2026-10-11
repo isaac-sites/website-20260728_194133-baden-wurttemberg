@@ -952,7 +952,6 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 8.<a id="endnote-8"></a>
    Source: stuttgarter-nachrichten.de  
    Title: Stuttgarter Nachrichten Rätselhafter Flieger: Ufo hält Flugsicherung in Atem  
-   Link:https://www.stuttgarter-nachrichten.de/inhalt.raetselhafter-flieger-ufo-haelt-flugsicherung-in-atem.cfc2f6f7-0b9a-4471-bd8f-2944f95986f3.html  
 
 9.<a id="endnote-9"></a>
    Source: swp.de  
@@ -969,7 +968,6 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 13.<a id="endnote-13"></a>
    Source: arxiv.org  
@@ -994,78 +992,62 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/verein  
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: Danny Ammon – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/ammon  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
    Title: Kurz notiert… – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 28.<a id="endnote-28"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/journal-fuer-ufo-forschung-nr-276-erschienen  
 
 29.<a id="endnote-29"></a>
    Source: swr.de  
    Title: Flughafen Stuttgart: Augenzeugin erzählt von ungeplanter Landung  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/landung-flughafen-stuttgart-lufthansa-augenzeugin-100.html  
 
 30.<a id="endnote-30"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 31.<a id="endnote-31"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
    Title: 17 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen  
 
 34.<a id="endnote-34"></a>
    Source: bundestag.de  
@@ -1121,7 +1103,6 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 46.<a id="endnote-46"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 47.<a id="endnote-47"></a>
    Source: stuttgarter-zeitung.de  
@@ -1156,7 +1137,6 @@ The state’s most durable pattern is the repeated transformation of ordinary bu
 
 54.<a id="endnote-54"></a>
    Source: baden-wuerttemberg.de  
-   Link:https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/praeventionsfilm-ueber-falsche-polizeibeamte-1/?cHash=b80830dd89b5b61c1c11e7da1784ece6&amp;type=98  
 
 55.<a id="endnote-55"></a>
    Source: mwk.baden-wuerttemberg.de  

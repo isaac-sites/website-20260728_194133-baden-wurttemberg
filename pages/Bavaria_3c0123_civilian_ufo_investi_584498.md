@@ -916,11 +916,9 @@ Civilian investigators have preserved Bavarian reports that might otherwise have
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
@@ -933,7 +931,6 @@ Civilian investigators have preserved Bavarian reports that might otherwise have
 
 11.<a id="endnote-11"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 12.<a id="endnote-12"></a>
    Source: zenodo.org  

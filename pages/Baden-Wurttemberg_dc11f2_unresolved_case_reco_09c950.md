@@ -854,7 +854,6 @@ The unresolved label should therefore be read narrowly: **the available evidence
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: arxiv.org  
@@ -921,11 +920,9 @@ The unresolved label should therefore be read narrowly: **the available evidence
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
@@ -946,7 +943,6 @@ The unresolved label should therefore be read narrowly: **the available evidence
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
@@ -956,7 +952,6 @@ The unresolved label should therefore be read narrowly: **the available evidence
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 27.<a id="endnote-27"></a>
    Source: about.zenodo.org  

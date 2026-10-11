@@ -880,7 +880,6 @@ Within Baden-Württemberg’s UFO history, Friesenheim is best described as an *
 
 4.<a id="endnote-4"></a>
    Source: osservatoriocopernico.org  
-   Link:https://www.osservatoriocopernico.org/en/radioastronomy/sid/the-system/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It is important to note that the Meteor Scatter phenomenon can occur at any hour and is not influenced by weather conditions.... To dete...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -983,7 +982,6 @@ Within Baden-Württemberg’s UFO history, Friesenheim is best described as an *
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 27.<a id="endnote-27"></a>
    Source: imo.net  

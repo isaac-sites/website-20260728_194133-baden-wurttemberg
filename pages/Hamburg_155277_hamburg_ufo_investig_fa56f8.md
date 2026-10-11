@@ -954,7 +954,6 @@ That is the central lesson of Hamburg’s UFO history. A report can be sincere, 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/verein  
    Published: March 23, 2026  
 
 19.<a id="endnote-19"></a>
