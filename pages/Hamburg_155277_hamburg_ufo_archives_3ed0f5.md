@@ -976,7 +976,7 @@ The central lesson of Hamburg’s UFO archive is therefore not that the city has
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 23.<a id="endnote-23"></a>
    Source: shop.ufo-forschung.de  

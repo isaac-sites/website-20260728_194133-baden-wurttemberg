@@ -1008,7 +1008,7 @@ Hamburg’s record therefore supports a careful distinction between an object th
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 19.<a id="endnote-19"></a>
    Source: suche.transparenz.hamburg.de  

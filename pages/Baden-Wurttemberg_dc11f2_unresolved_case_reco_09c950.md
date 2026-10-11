@@ -360,7 +360,7 @@ GEP’s public database is the most useful detailed source for Baden-Württember
 </aside>
 <!-- HIERARCHY_NAV_END -->
 
-The classification process has two distinct stages. First, the report is described by what the witness apparently observed: a nocturnal light, a daylight object, a close encounter or a combined radar-and-visual event. That label says nothing about whether the event was ultimately explained. After investigation, GEP applies an outcome classification based on the system developed by researcher Allan Hendry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+The classification process has two distinct stages. First, the report is described by what the witness apparently observed: a nocturnal light, a daylight object, a close encounter or a combined radar-and-visual event. That label says nothing about whether the event was ultimately explained. After investigation, GEP applies an outcome classification based on the system developed by researcher Allan Hendry.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 The most important outcomes are:
 
@@ -376,7 +376,7 @@ The most important outcomes are:
 
 </div>
 
-GEP itself argues that only the “good” and “best” categories deserve serious inclusion in broader discussions of genuinely anomalous cases. It also acknowledges a methodological problem: “strangeness” is difficult to define, and investigators must distinguish between something that merely looked strange to a witness and unusual characteristics that remain after analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+GEP itself argues that only the “good” and “best” categories deserve serious inclusion in broader discussions of genuinely anomalous cases. It also acknowledges a methodological problem: “strangeness” is difficult to define, and investigators must distinguish between something that merely looked strange to a witness and unusual characteristics that remain after analysis.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That makes the headline number highly sensitive to wording. Counting every case without a firm identification produces one total. Counting only “problematic”, “good” or “best” cases produces another. Excluding historical reports made decades late, unfinished files or cases with weak documentation reduces it further.
 
@@ -434,7 +434,7 @@ A report can remain unresolved for several reasons, only some of which concern g
 
 **The file is historical or retrospective.** Reports submitted years or decades later lose access to contemporary flight logs, precise weather, original photographs and immediate witness interviews. Memory can preserve the central impression while changing durations, angles and sequences.
 
-These limitations explain why insufficient-data cases must not be silently merged with the anomalous residue. GEP’s system explicitly treats inadequate information as an “exception” rather than an unexplained atmospheric phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+These limitations explain why insufficient-data cases must not be silently merged with the anomalous residue. GEP’s system explicitly treats inadequate information as an “exception” rather than an unexplained atmospheric phenomenon.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 
 
@@ -854,7 +854,7 @@ The unresolved label should therefore be read narrowly: **the available evidence
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: arxiv.org  
@@ -921,11 +921,11 @@ The unresolved label should therefore be read narrowly: **the available evidence
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
@@ -946,7 +946,7 @@ The unresolved label should therefore be read narrowly: **the available evidence
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:<a href="https://www.ufo-forschung.de/forschung/euroufo-barometer" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/euroufo-barometer</a>  
+   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
@@ -956,7 +956,7 @@ The unresolved label should therefore be read narrowly: **the available evidence
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 27.<a id="endnote-27"></a>
    Source: about.zenodo.org  

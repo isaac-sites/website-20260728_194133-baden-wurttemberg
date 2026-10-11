@@ -929,7 +929,7 @@ The most reliable histories therefore follow reports beyond the first headline. 
 14.<a id="endnote-14"></a>
    Source: zvw.de  
    Title: spielbergs disclosure day ein film für die gegenwart arid 1086559  
-   Link:<a href="https://www.zvw.de/mehr-nachrichten/kultur-unterhaltung/spielbergs-disclosure-day-ein-film-f%C3%BCr-die-gegenwart_arid-1086559" target="_blank" rel="noopener noreferrer nofollow">https://www.zvw.de/mehr-nachrichten/kultur-unterhaltung/spielbergs-disclosure-day-ein-film-f%C3%BCr-die-gegenwart_arid-1086559</a>  
+   Link:https://www.zvw.de/mehr-nachrichten/kultur-unterhaltung/spielbergs-disclosure-day-ein-film-f%C3%BCr-die-gegenwart_arid-1086559  
 
 15.<a id="endnote-15"></a>
    Source: swr.de  

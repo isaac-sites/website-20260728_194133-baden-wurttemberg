@@ -382,7 +382,7 @@ The online reporting form gathers the basic circumstances first, after which an 
 
 ## How verdicts are assigned
 
-The GEP uses more than one classification system because the shape of a report and the result of an investigation are not the same thing. A Hynek-style label describes the reported encounter before its cause has been established. For example, a distant light, daylight object or claimed close encounter can be sorted by observation type. The GEP explicitly notes that this preliminary scheme is not designed to express the final investigative result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+The GEP uses more than one classification system because the shape of a report and the result of an investigation are not the same thing. A Hynek-style label describes the reported encounter before its cause has been established. For example, a distant light, daylight object or claimed close encounter can be sorted by observation type. The GEP explicitly notes that this preliminary scheme is not designed to express the final investigative result.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 The later Hendry-style judgement is more important when reading the archive’s verdicts.
 
@@ -394,7 +394,7 @@ The later Hendry-style judgement is more important when reading the archive’s 
 
 **Problematic UFO** is reserved for reports containing significant unusual features for which no clear conventional explanation has been established, although an ordinary cause cannot be excluded.
 
-**Good UFO** denotes a more strongly unresolved report in which investigators regard the unusual features as difficult to reconcile with familiar objects. The GEP has published separate analyses of this small residual group, indicating that it treats these files as subjects for further study rather than as automatic proof of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+**Good UFO** denotes a more strongly unresolved report in which investigators regard the unusual features as difficult to reconcile with familiar objects. The GEP has published separate analyses of this small residual group, indicating that it treats these files as subjects for further study rather than as automatic proof of extraterrestrial technology.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 A further verification code may indicate how securely an identification was established. An explanation supported by a matching flight, astronomical position or satellite passage is stronger than one based mainly on resemblance. This matters because two entries carrying the broad verdict “IFO” need not have equal evidential weight.
 
@@ -864,7 +864,7 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
@@ -874,7 +874,7 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 7.<a id="endnote-7"></a>
    Source: come-on.de  
@@ -908,7 +908,7 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
@@ -932,15 +932,15 @@ That layered outcome is the archive’s real value to North Rhine-Westphalia’s
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  

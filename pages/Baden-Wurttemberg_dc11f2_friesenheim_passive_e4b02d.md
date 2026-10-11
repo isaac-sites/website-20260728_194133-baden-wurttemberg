@@ -369,7 +369,7 @@ GEP classified the case as a “good UFO”, meaning that its investigators cons
 
 The phrase “passive radar” can give a misleading impression of an airport-style screen showing a target moving across a map. The Friesenheim apparatus was a much simpler receiving station. It used a directional Yagi antenna, an Airspy R2 software-defined radio receiver and signal-display software, tuned to 143.050 MHz. The receiving antenna pointed broadly south-west and operated continuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/14949908/preview/passive-radar-configuration.txt?include_deleted=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Preview...</span></span></span>
 
-The radio source was GRAVES, a powerful French space-surveillance radar transmitter near Dijon. Objects or ionised trails can reflect some of its signal towards receivers elsewhere in Europe. Aircraft, satellites, space debris and meteor trails are all capable of producing detectable echoes under suitable geometry. Amateur meteor observers commonly use the same 143.050 MHz transmission for this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osservatoriocopernico.org/en/radioastronomy/sid/the-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osservatoriocopernico.org">[osservatoriocopernico.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osservatoriocopernico.org</span><span class="citation-popover-snippet">It is important to note that the Meteor Scatter phenomenon can occur at any hour and is not influenced by weather conditions.... To dete...</span></span></span>
+The radio source was GRAVES, a powerful French space-surveillance radar transmitter near Dijon. Objects or ionised trails can reflect some of its signal towards receivers elsewhere in Europe. Aircraft, satellites, space debris and meteor trails are all capable of producing detectable echoes under suitable geometry. Amateur meteor observers commonly use the same 143.050 MHz transmission for this reason.<span class="citation-link-wrap">[osservatoriocopernico.org]<span class="citation-popover" role="note"><span class="citation-popover-source">osservatoriocopernico.org</span><span class="citation-popover-snippet">It is important to note that the Meteor Scatter phenomenon can occur at any hour and is not influenced by weather conditions.... To dete...</span></span></span>
 
 At the reported sighting time, the Oberweier receiver captured a short pattern on a waterfall display. Such a display places time on one axis and received frequency on the other; brightness represents signal strength. Frequency shifts and changing intensities may reveal that a reflecting target or ionised trail has altered the received radio signal.
 
@@ -880,7 +880,7 @@ Within Baden-Württemberg’s UFO history, Friesenheim is best described as an *
 
 4.<a id="endnote-4"></a>
    Source: osservatoriocopernico.org  
-   Link:<a href="https://www.osservatoriocopernico.org/en/radioastronomy/sid/the-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.osservatoriocopernico.org/en/radioastronomy/sid/the-system/</a>  
+   Link:https://www.osservatoriocopernico.org/en/radioastronomy/sid/the-system/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It is important to note that the Meteor Scatter phenomenon can occur at any hour and is not influenced by weather conditions.... To dete...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -983,7 +983,7 @@ Within Baden-Württemberg’s UFO history, Friesenheim is best described as an *
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 27.<a id="endnote-27"></a>
    Source: imo.net  

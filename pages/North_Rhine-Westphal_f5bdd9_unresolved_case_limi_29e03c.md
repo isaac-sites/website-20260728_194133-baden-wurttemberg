@@ -321,7 +321,7 @@ An unresolved UFO case in North Rhine-Westphalia does not mean investigators hav
 
 <img src="{{ "/assets/images/North_Rhine-Westphal_f5bdd9_unresolved_case_limi_29e03c-overview.webp" | relative_url }}" alt="Overview image for Unresolved" loading="eager" decoding="sync" fetchpriority="high">
 
-That distinction matters in NRW, where dense cities, busy air routes and large numbers of potential observers generate many reports. Civilian investigators based in Lüdenscheid have accumulated decades of case material, including a small residue classified as anomalous or insufficiently explained. Their own classification system separates potentially interesting cases from reports weakened by inadequate observation, unreliable testimony or insufficient data. “Unresolved” is therefore an evidential status, not a finding about what the object was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</span></span></span>
+That distinction matters in NRW, where dense cities, busy air routes and large numbers of potential observers generate many reports. Civilian investigators based in Lüdenscheid have accumulated decades of case material, including a small residue classified as anomalous or insufficiently explained. Their own classification system separates potentially interesting cases from reports weakened by inadequate observation, unreliable testimony or insufficient data. “Unresolved” is therefore an evidential status, not a finding about what the object was.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</span></span></span>
 
 ## Why incomplete reports resist identification
 
@@ -349,7 +349,7 @@ Most UFO reports begin as observations rather than measurements. A witness may a
 
 Distance is an especially serious problem. A light against a dark sky provides few visual clues to scale. An apparently large object moving rapidly may instead be a small nearby object drifting slowly, or a distant aircraft whose movement has been exaggerated because the witness assumed it was closer. Claims of extreme speed or sudden acceleration are consequently weak unless range and position were measured independently.
 
-The GEP’s classification system reflects this problem. It includes categories for reports that appear to contain substantial anomalous features, but also separate classifications for insufficient data, inadequate observation and other exceptions. Its “problematic” category covers cases in which unusual characteristics remain but could still occur under extreme or unfamiliar ordinary conditions. A “good” case is intended to represent stronger unexplained material, not proof of a non-human vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</span></span></span>
+The GEP’s classification system reflects this problem. It includes categories for reports that appear to contain substantial anomalous features, but also separate classifications for insufficient data, inadequate observation and other exceptions. Its “problematic” category covers cases in which unusual characteristics remain but could still occur under extreme or unfamiliar ordinary conditions. A “good” case is intended to represent stronger unexplained material, not proof of a non-human vehicle.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</span></span></span>
 
 A case from Siegburg illustrates how little a striking description can establish by itself. In September 2010, a witness reported a pale, unlit triangular form crossing the entire sky in four or five seconds. The account contains memorable features—shape, speed and orientation—but a public summary cannot by itself determine range, physical size or whether the appearance resulted from a group of objects, a silhouette, atmospheric conditions or perception during a very brief event. The report is worth preserving precisely because it cannot be reconstructed confidently, but its unresolved quality does not demonstrate impossible flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/dreieckfoermiges-licht-ueber-siegburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">Gesellschaft zur Erforschung des UFO-Phänomens (GEP) e.V</span><span class="citation-popover-snippet">UFO ForschungDreieckförmiges Licht über Siegburg – Gesellschaft zur Erforschung des UFO-Phänomens e.V.October 19, 2010 — Fall-Nr.: 201009...</span><span class="citation-popover-meta">Published: October 19, 2010</span></span></span>
 
@@ -838,7 +838,7 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungKlassifikationenPROBLEMATIC UFO: UFO weist wesentliche anomale Merkmale auf, die auch unter extremen Bedingungen bei herkömm...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -849,7 +849,7 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungUAP Research in Germanyby D Ammon · 2023 · Cited by 3 — by the GEP as “GOOD UFO” have enough in common to be... Das Stocken...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -914,7 +914,7 @@ For NRW’s UFO history, that is the central lesson: “unresolved” is the beg
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung</a>  
+   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
    Published: February 25, 2025  
 
 15.<a id="endnote-15"></a>

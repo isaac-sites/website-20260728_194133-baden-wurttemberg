@@ -351,7 +351,7 @@ CENAP counted 1,084 reports from Germany, Austria and Switzerland during 2024, c
 
 Reports were not evenly distributed across the state. CENAP identified concentrations around Lake Constance, the Markgräflerland district and, most prominently, the Rhine-Neckar region near the Rhineland-Palatinate border. Such clustering does not by itself establish a physical concentration of unknown objects. It can also reflect population density, clear viewing conditions, local media interest, shared sightings of the same object or the ease with which residents learn where to submit a report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">UFO Sichtungen in Deutschland auf Rekord-Niveau</span><span class="citation-popover-snippet">UFO Sichtungen in Deutschland auf Rekord-Niveau - SWR Aktuell...</span></span></span>
 
-The figures also illustrate why different UFO organisations may publish different annual totals. The Society for the Investigation of the UFO Phenomenon, or GEP, separately received and analysed reports during 2024 and published its own annual report with maps, classifications and case summaries. The organisations have different submission channels, methods and caseloads, so their totals should not be combined or treated as rival measurements of one complete population. Each database describes the reports that reached that particular group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungJahresbericht 2024 der Gesellschaft zur Erforschung des UFO-Phänomens (GEP) veröffentlicht – Gesellschaft zur Erforschung de...</span></span></span>
+The figures also illustrate why different UFO organisations may publish different annual totals. The Society for the Investigation of the UFO Phenomenon, or GEP, separately received and analysed reports during 2024 and published its own annual report with maps, classifications and case summaries. The organisations have different submission channels, methods and caseloads, so their totals should not be combined or treated as rival measurements of one complete population. Each database describes the reports that reached that particular group.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO ForschungJahresbericht 2024 der Gesellschaft zur Erforschung des UFO-Phänomens (GEP) veröffentlicht – Gesellschaft zur Erforschung de...</span></span></span>
 
 
 
@@ -852,29 +852,29 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungJahresbericht 2024 der Gesellschaft zur Erforschung des UFO-Phänomens (GEP) veröffentlicht – Gesellschaft zur Erforschung de...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein</a>  
+   Link:https://www.ufo-forschung.de/verein  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>GEP In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V.March 23, 2026 — KATEGORIE: GEP IN EIGENER SACHE Neuigkeiten, d...</p></details>
    Published: March 23, 2026  
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AKTUELLES GEP In eigener Sache 23.03.2026 von Danny Ammon · Published 23.03.2026 GEP STARTET SPREADSHOP Ab sofort kann über den GEP-eigen...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/tag/jahresbericht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/jahresbericht</a>  
+   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 8.<a id="endnote-8"></a>
    Source: alien.de  
@@ -889,12 +889,12 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 10.<a id="endnote-10"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 
 11.<a id="endnote-11"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:<a href="https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html</a>  
+   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
@@ -912,7 +912,7 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 15.<a id="endnote-15"></a>
    Source: baden-wuerttemberg.de  
    Title: starkregen und hochwasser praegten das jahr 2024 1  
-   Link:<a href="https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/starkregen-und-hochwasser-praegten-das-jahr" target="_blank" rel="noopener noreferrer nofollow">https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/starkregen-und-hochwasser-praegten-das-jahr</a>  
+   Link:https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/starkregen-und-hochwasser-praegten-das-jahr  
 
 16.<a id="endnote-16"></a>
    Source: im.baden-wuerttemberg.de  
@@ -927,7 +927,7 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 18.<a id="endnote-18"></a>
    Source: beteiligungsportal.baden-wuerttemberg.de  
    Title: jahresbilanz 2024 des verkehrswarndienstes  
-   Link:<a href="https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/jahresbilanz-2024-des-verkehrswarndienstes" target="_blank" rel="noopener noreferrer nofollow">https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/jahresbilanz-2024-des-verkehrswarndienstes</a>  
+   Link:https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/jahresbilanz-2024-des-verkehrswarndienstes  
 
 19.<a id="endnote-19"></a>
    Source: grenzwissenschaft-aktuell.de  

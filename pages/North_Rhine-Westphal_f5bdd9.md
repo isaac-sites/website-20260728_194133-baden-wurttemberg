@@ -418,7 +418,7 @@ The reporting pattern is also shaped by attention. When one striking image appea
 
 North Rhine-Westphalia’s clearest contribution to German UFO history is institutional. In 1972, Hans-Werner Peiniger and Gerald Mosbleck founded a youth UFO club in Lüdenscheid. It developed into the Gesellschaft zur Erforschung des UFO-Phänomens, or GEP, one of Germany’s longest-running civilian organisations devoted to collecting and investigating reports. By October 2014, it had received its 3,000th case; the witness in that milestone report was in Siegburg and described a fast-moving, red-glowing object seen at dawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/pressemitteilungen/pm-allgemein/gesellschaft-zur-erforschung-des-ufo-phaenomens-e-v-untersucht-ihren-3000-fall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">untersucht ihren 3000. Fall – Gesellschaft zur Erforschung des UFO-Phänomens e.V.November 15, 2014 — 1972 gründeten Hans-Werner Peiniger...</span><span class="citation-popover-meta">Published: November 15, 2014</span></span></span>
 
-The GEP is not a state agency and its case files should not be mistaken for official government determinations. It describes itself as a non-profit citizen-science organisation. Its investigators compare witness accounts with astronomy, meteorology, aviation, perception research and other relevant fields, attempting to find ordinary explanations before classifying a case as unresolved. Its annual reports include geographical distributions, types of observation, investigation outcomes and selected case summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+The GEP is not a state agency and its case files should not be mistaken for official government determinations. It describes itself as a non-profit citizen-science organisation. Its investigators compare witness accounts with astronomy, meteorology, aviation, perception research and other relevant fields, attempting to find ordinary explanations before classifying a case as unresolved. Its annual reports include geographical distributions, types of observation, investigation outcomes and selected case summaries.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 This work matters because Germany has not maintained a publicly visible, state-by-state military UFO programme comparable with some foreign systems. In North Rhine-Westphalia, the most continuous archive has therefore been assembled largely by private investigators rather than the state government, police or armed forces.
 
@@ -946,11 +946,11 @@ North Rhine-Westphalia nevertheless remains important within German UFO research
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 10.<a id="endnote-10"></a>
    Source: merkur.de  
@@ -997,12 +997,12 @@ North Rhine-Westphalia nevertheless remains important within German UFO research
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/verein" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein</a>  
+   Link:https://www.ufo-forschung.de/verein  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 21.<a id="endnote-21"></a>
    Source: wa.de  
