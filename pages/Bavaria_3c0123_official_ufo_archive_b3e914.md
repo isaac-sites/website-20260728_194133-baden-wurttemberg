@@ -955,7 +955,6 @@ The most defensible conclusion is administrative rather than sensational. Bavari
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 22.<a id="endnote-22"></a>
    Source: archives.gov  

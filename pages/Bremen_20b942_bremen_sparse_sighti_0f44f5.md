@@ -872,13 +872,11 @@ Bremen therefore occupies an unusual but modest place in Germany’s UFO geograp
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/verein  
    Published: March 23, 2026  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
    Published: March 23, 2026  
 
 16.<a id="endnote-16"></a>
@@ -889,13 +887,11 @@ Bremen therefore occupies an unusual but modest place in Germany’s UFO geograp
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
    Published: January 26, 2026  
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
    Published: January 26, 2026  
 
 19.<a id="endnote-19"></a>
@@ -906,7 +902,6 @@ Bremen therefore occupies an unusual but modest place in Germany’s UFO geograp
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
    Published: January 13, 2025  
 
 21.<a id="endnote-21"></a>

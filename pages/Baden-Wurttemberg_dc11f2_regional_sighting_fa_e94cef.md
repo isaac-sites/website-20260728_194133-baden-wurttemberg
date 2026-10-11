@@ -937,14 +937,12 @@ The state is consequently a productive setting for sincere UFO reports, but not 
 5.<a id="endnote-5"></a>
    Source: swr.de  
    Title: Lichterkette am Nachthimmel  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ein ungewöhnlicher Anblick für viele Menschen unter anderem in Baden-Württemberg: Eine Art &quot;Perlenkette&quot; aus rund 20 Lichtern zog am Frei...</p></details>
    Published: September 17, 2023  
 
 6.<a id="endnote-6"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>In der Geschichte der Raumfahrt gab es bislang nur zwei Fälle, bei denen Menschen von Weltraumschrott getroffen wurde, eine Frau in den U...</p></details>
    Published: August 27, 2024  
 
@@ -1044,19 +1042,16 @@ The state is consequently a productive setting for sincere UFO reports, but not 
 24.<a id="endnote-24"></a>
    Source: swr.de  
    Title: Newsticker BW: Feuerball über BW war Satellit, Weindorf startet  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html  
    Published: August 28, 2024  
 
 25.<a id="endnote-25"></a>
    Source: swr.de  
    Title: Nach Höhepunkt deutlich weniger Polarlichter am Himmel über BW  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html  
    Published: May 12, 2024  
 
 26.<a id="endnote-26"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
    Published: March 8, 2024  
 
 27.<a id="endnote-27"></a>

@@ -896,12 +896,10 @@ The most accurate reading of Saarland’s record is less dramatic but more usefu
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Josef Allen Hynek erdachte eine heute international gebräuchliche Klassifikation, nach der die gemeldeten Sichtungen vor der Untersuchung...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Die Akte soll den Namen des Melders, Datum der Meldung, Datum, Uhrzeit und Ort der gemeldeten Erfahrung, mögliche Zeugen, Fallklassifikat...</p></details>
 
 4.<a id="endnote-4"></a>
@@ -935,7 +933,6 @@ The most accurate reading of Saarland’s record is less dramatic but more usefu
 
 10.<a id="endnote-10"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 11.<a id="endnote-11"></a>
    Source: sr.de  

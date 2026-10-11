@@ -1148,7 +1148,6 @@ Until evidence of that quality appears, the most defensible conclusion is restra
 
 55.<a id="endnote-55"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/5-000-uap-sichtungen-ueber-europa-in-einem-jahr-aber-kein-eu-system-zu-deren-erfassung  
 
 56.<a id="endnote-56"></a>
    Source: ufo-forschung.de  

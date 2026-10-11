@@ -852,29 +852,24 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ForschungJahresbericht 2024 der Gesellschaft zur Erforschung des UFO-Phänomens (GEP) veröffentlicht – Gesellschaft zur Erforschung de...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>GEP In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V.March 23, 2026 — KATEGORIE: GEP IN EIGENER SACHE Neuigkeiten, d...</p></details>
    Published: March 23, 2026  
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AKTUELLES GEP In eigener Sache 23.03.2026 von Danny Ammon · Published 23.03.2026 GEP STARTET SPREADSHOP Ab sofort kann über den GEP-eigen...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 8.<a id="endnote-8"></a>
    Source: alien.de  
@@ -889,12 +884,10 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 10.<a id="endnote-10"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: Starlink-Satellit von BW aus zu sehen  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 
 11.<a id="endnote-11"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
 
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
@@ -912,7 +905,6 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 15.<a id="endnote-15"></a>
    Source: baden-wuerttemberg.de  
    Title: starkregen und hochwasser praegten das jahr 2024 1  
-   Link:https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/starkregen-und-hochwasser-praegten-das-jahr  
 
 16.<a id="endnote-16"></a>
    Source: im.baden-wuerttemberg.de  
@@ -927,7 +919,6 @@ For Baden-Württemberg’s UFO history, 2024 is best understood as a modern obse
 18.<a id="endnote-18"></a>
    Source: beteiligungsportal.baden-wuerttemberg.de  
    Title: jahresbilanz 2024 des verkehrswarndienstes  
-   Link:https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/jahresbilanz-2024-des-verkehrswarndienstes  
 
 19.<a id="endnote-19"></a>
    Source: grenzwissenschaft-aktuell.de  

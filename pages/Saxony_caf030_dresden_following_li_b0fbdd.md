@@ -911,7 +911,6 @@ Within Saxony’s fragmented UFO record, this is a comparatively well-resolved e
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 16.<a id="endnote-16"></a>
    Source: hjkc.de  
@@ -946,7 +945,6 @@ Within Saxony’s fragmented UFO record, this is a comparatively well-resolved e
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018  
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  

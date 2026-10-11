@@ -898,7 +898,6 @@ The databases remain valuable because they preserve this history rather than fil
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 7.<a id="endnote-7"></a>
    Source: arxiv.org  

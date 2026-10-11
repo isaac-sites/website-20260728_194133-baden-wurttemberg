@@ -862,26 +862,22 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: 19 neue ufo meldungen im juni 2022  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/19-neue-ufo_meldungen-im-juni-2022  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>(Falldatenbank, 28.05.2022)... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... N...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
    Title: 15 neue ufo meldungen im april 2023  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen-im-april-2023  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP e.V.... Nach erfolgter Untersuchung, Disk...</p></details>
    Published: april 2023  
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemeldet über Fragebogen am 22.01.2024... Bei den Schilderungen handelt es sich um Zusammenfassungen von UFO-Melde-Eingängen bei der GEP...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 8.<a id="endnote-8"></a>
    Source: researchgate.net  
@@ -889,7 +885,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/ueber-uns/satzung  
 
 10.<a id="endnote-10"></a>
    Source: Wikipedia  
@@ -898,7 +893,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 11.<a id="endnote-11"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 12.<a id="endnote-12"></a>
    Source: science.gc.ca  
@@ -917,7 +911,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 15.<a id="endnote-15"></a>
    Source: swr.de  
    Title: Lichterkette am Nachthimmel  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/lichterkette-am-himmel-sichtbar-erklaerung-100.html  
 
 16.<a id="endnote-16"></a>
    Source: nature.com  
@@ -934,12 +927,10 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 21.<a id="endnote-21"></a>
    Source: swr.de  
@@ -959,48 +950,39 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 24.<a id="endnote-24"></a>
    Source: swr.de  
    Title: Polarlichter über Deutschland: Spektakel heute Nacht gesichtet  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-gesichtet-himmel-ueber-bw-donnerstag-10-10-2024-100.html  
 
 25.<a id="endnote-25"></a>
    Source: swr.de  
    Title: Newsticker BW: Feuerball über BW war Satellit, Weindorf startet  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2024-08-28-100.html  
 
 26.<a id="endnote-26"></a>
    Source: swr.de  
    Title: Feuerball am Himmel: [Starlink](&#123;&#123; 'starlink/' | relative_url &#125;&#125;)-Satellit von BW aus zu sehen  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/feuerball-himmel-bw-100.html  
 
 27.<a id="endnote-27"></a>
    Source: swr.de  
    Title: Nach Höhepunkt deutlich weniger Polarlichter am Himmel über BW  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/polarlichter-sonnensturm-ueber-bw-100.html  
 
 28.<a id="endnote-28"></a>
    Source: swr.de  
    Title: Weltraumschrott trifft auf die Erde: Keine Gefahr für BW  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weltraumschrott-iss-auswirkungen-100.html  
 
 29.<a id="endnote-29"></a>
    Source: swr.de  
    Title: Sesshafter Wolf: Weiterer Nachweis im Süden von Deutschland  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/weiterer-wolf-in-bw-nachgewiesen-100.html  
 
 30.<a id="endnote-30"></a>
    Source: swr.de  
    Title: Behörden sicher: Wieder Wolf im Kreis Göppingen gesichtet  
-   Link:https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/wolf-gesichtet-bad-ditzenbach-sichtung-kreis-goeppingen-oberkochen-ost-alb-kreis-100.html  
 
 31.<a id="endnote-31"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im november 2023  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-november-2023  
    Published: november 2023  
 
 32.<a id="endnote-32"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im september 2022  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-september-2022  
    Published: september 2022  
 
 33.<a id="endnote-33"></a>
@@ -1016,7 +998,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 35.<a id="endnote-35"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018  
 
 36.<a id="endnote-36"></a>
    Source: bundestag.de  
@@ -1036,7 +1017,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 39.<a id="endnote-39"></a>
    Source: ufo-forschung.de  
    Title: 5 neue UFO Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/5-neue-ufo-meldungen-7  
 
 40.<a id="endnote-40"></a>
    Source: bundestag.de  
@@ -1046,22 +1026,18 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 41.<a id="endnote-41"></a>
    Source: ufo-forschung.de  
    Title: 12 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/12-neue-ufo-meldungen-2  
 
 42.<a id="endnote-42"></a>
    Source: ufo-forschung.de  
    Title: 17 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen  
 
 43.<a id="endnote-43"></a>
    Source: ufo-forschung.de  
    Title: 15 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen  
 
 44.<a id="endnote-44"></a>
    Source: ufo-forschung.de  
    Title: 30 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 45.<a id="endnote-45"></a>
    Source: bundestag.de  
@@ -1080,7 +1056,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 
 48.<a id="endnote-48"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/category/ufo-faelle/ufo-meldungen/page/40  
 
 49.<a id="endnote-49"></a>
    Source: bundestag.de  
@@ -1115,7 +1090,6 @@ The fairest conclusion is that the GEP archive is indispensable but not comprehe
 56.<a id="endnote-56"></a>
    Source: ufo-forschung.de  
    Title: monatsbericht september 2025 der gep veroeffentlicht  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht  
    Published: september 2025  
 
 57.<a id="endnote-57"></a>

@@ -890,7 +890,6 @@ For Saxony-Anhalt, the central lesson is therefore methodological. The modern re
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ordnung (V3): Ein ausreichend verifizierter IFO-Fall liegt vor, wenn die Objektmerkmale mit Merkmalen von mehreren bekannten Objekttypen...</p></details>
 
 3.<a id="endnote-3"></a>
@@ -938,7 +937,6 @@ For Saxony-Anhalt, the central lesson is therefore methodological. The modern re
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
    Title: monatsbericht september 2025 der gep veroeffentlicht  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht  
    Published: september 2025  
 
 13.<a id="endnote-13"></a>
@@ -947,7 +945,6 @@ For Saxony-Anhalt, the central lesson is therefore methodological. The modern re
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/ueber-uns/satzung  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
@@ -956,7 +953,6 @@ For Saxony-Anhalt, the central lesson is therefore methodological. The modern re
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: euroufo barometer  
-   Link:https://www.ufo-forschung.de/forschung/euroufo-barometer  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
@@ -965,7 +961,6 @@ For Saxony-Anhalt, the central lesson is therefore methodological. The modern re
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 19.<a id="endnote-19"></a>
    Source: indico.esa.int  

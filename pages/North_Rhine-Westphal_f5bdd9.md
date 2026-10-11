@@ -946,11 +946,9 @@ North Rhine-Westphalia nevertheless remains important within German UFO research
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 10.<a id="endnote-10"></a>
    Source: merkur.de  
@@ -997,12 +995,10 @@ North Rhine-Westphalia nevertheless remains important within German UFO research
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/verein  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 21.<a id="endnote-21"></a>
    Source: wa.de  

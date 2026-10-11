@@ -936,7 +936,6 @@ For Saxony-Anhalt, Starlink represents a new phase rather than a new mystery. Ea
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AKTUELLES GEP In eigener Sache 23.03.2026 von Danny Ammon · Published 23.03.2026 GEP STARTET SPREADSHOP Ab sofort kann über den GEP-eigen...</p></details>
 
 18.<a id="endnote-18"></a>
@@ -960,7 +959,6 @@ For Saxony-Anhalt, Starlink represents a new phase rather than a new mystery. Ea
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>GEP In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V.March 23, 2026 — KATEGORIE: GEP IN EIGENER SACHE Neuigkeiten, d...</p></details>
    Published: March 23, 2026  
 
@@ -984,4 +982,3 @@ For Saxony-Anhalt, Starlink represents a new phase rather than a new mystery. Ea
 
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  

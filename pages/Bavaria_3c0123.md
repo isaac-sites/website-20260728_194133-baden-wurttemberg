@@ -935,7 +935,6 @@ Bavaria’s most defensible UFO history is therefore neither a catalogue of alie
 13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 14.<a id="endnote-14"></a>
    Source: e-manuscripta.ch  

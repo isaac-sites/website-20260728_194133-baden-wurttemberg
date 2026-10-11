@@ -897,12 +897,10 @@ That is why Lüdenscheid deserves a distinct place in the state’s UFO history.
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: GE P In eigener Sache – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/verein  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
    Title: Aktuelles – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 18.<a id="endnote-18"></a>
    Source: ufo-forschung.de  
@@ -917,11 +915,9 @@ That is why Lüdenscheid deserves a distinct place in the state’s UFO history.
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: Jahresbericht – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
@@ -946,7 +942,6 @@ That is why Lüdenscheid deserves a distinct place in the state’s UFO history.
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 27.<a id="endnote-27"></a>
    Source: come-on.de  
@@ -955,7 +950,6 @@ That is why Lüdenscheid deserves a distinct place in the state’s UFO history.
 
 28.<a id="endnote-28"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 29.<a id="endnote-29"></a>
    Source: ufo-forschung.de  
